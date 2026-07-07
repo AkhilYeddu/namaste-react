@@ -38,11 +38,12 @@ const Header = ()=>{
 }
 
 const RestaurantCard = (props)=>{
+   
     const{ resData } = props; // resData is inside props.
-    const {name, cuisines, avgRating, costForTwo, deliveryTime, cloudinaryImageId} = resData?.data; //optional chaining
+    const {name, cuisines, avgRating, costForTwo,costForTwoString, deliveryTime, cloudinaryImageId} = resData?.data; //optional chaining
     return(
         <div className="res-card">
-            <img className="res-logo" src={"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/" + 
+            <img className="res-logo" src={CDN_URL + 
                 cloudinaryImageId}>
             </img>
             <h3>{name}</h3>
@@ -1937,6 +1938,167 @@ const resList =[{
     subtype: "basic",
   }]
 
+  // Not using keys (not acceptable) < using indexes as keys (okay, but not recommended) > using unique ids as keys (best practice)
+
+const fakeResList = [
+  {
+    type: "restaurant",
+    data: {
+      id: "10575",
+      name: "Pizza Hut",
+      cloudinaryImageId:
+        "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/15/6f892224-627c-4702-89e5-430fb3637e58_10575.JPG",
+      cuisines: ["Pizzas"],
+      costForTwoString: "₹600 FOR TWO",
+      deliveryTime: 37,
+      avgRating: "4.3",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "1344137",
+      name: "Homely",
+      cloudinaryImageId:
+        "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/10/4edad1e9-5485-4cf5-9af0-fc38c2e55071_1344137.jpg",
+      cuisines: [
+        "South Indian",
+        "Home Food",
+        "North Indian",
+        "Desserts",
+      ],
+      costForTwoString: "₹200 FOR TWO",
+      deliveryTime: 38,
+      avgRating: "4.2",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "1110698",
+      name: "Seoul Burgers & Shakes",
+      cloudinaryImageId:
+        "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/3/cb9cb0e5-a834-497b-913e-09fcbba3a094_1110698.jpg",
+      cuisines: ["Burger", "Bubble Tea", "Fast Food", "Beverages"],
+      costForTwoString: "₹200 FOR TWO",
+      deliveryTime: 34,
+      avgRating: "4.5",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "1037841",
+      name: "Mr Phillys American Cheeseburgers",
+      cloudinaryImageId:
+        "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/22/5ccdabd4-2357-4ebd-823a-6092e8491166_1037841 (1).jpg",
+      cuisines: ["Burgers", "American", "Biryani", "Fast Food"],
+      costForTwoString: "₹500 FOR TWO",
+      deliveryTime: 26,
+      avgRating: "4.3",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "891388",
+      name: "Shawarma Farm",
+      cloudinaryImageId:
+        "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/28/83cf5a4d-e75e-48a7-a3f1-e5cdbcd207a5_891388.ss.jpg",
+      cuisines: [
+        "Shawarma",
+        "Arabian",
+        "Fast Food",
+        "Desserts",
+      ],
+      costForTwoString: "₹200 FOR TWO",
+      deliveryTime: 35,
+      avgRating: "4.3",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "941182",
+      name: "Good Flippin' Burgers",
+      cloudinaryImageId:
+        "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/8/26a4dff8-be97-408d-a68c-70ebb7cb30a4_941182.JPG",
+      cuisines: ["Burgers", "American", "Fast Food"],
+      costForTwoString: "₹600 FOR TWO",
+      deliveryTime: 33,
+      avgRating: "4.4",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "784307",
+      name: "Nashville Fried Chicken - NFC",
+      cloudinaryImageId: "e9b5f0d45e6556a5ed354dabdbd31cfd",
+      cuisines: ["American", "Burgers", "Fast Food"],
+      costForTwoString: "₹350 FOR TWO",
+      deliveryTime: 35,
+      avgRating: "4.1",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "337335",
+      name: "Kannur Food Kitchen",
+      cloudinaryImageId: "a27weqanhnszqiuzsoik",
+      cuisines: ["Kerala", "Biryani", "Beverages"],
+      costForTwoString: "₹200 FOR TWO",
+      deliveryTime: 31,
+      avgRating: "4.2",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "5934",
+      name: "Burger King",
+      cloudinaryImageId: "jpohkfkofao0hxez7vdh",
+      cuisines: ["Burgers", "American"],
+      costForTwoString: "₹350 FOR TWO",
+      deliveryTime: 31,
+      avgRating: "4.2",
+    },
+    subtype: "basic",
+  },
+  {
+    type: "restaurant",
+    data: {
+      id: "65797",
+      name: "Leon's - Burgers & Wings",
+      cloudinaryImageId: "r4ufflqojich0r29efvc",
+      cuisines: [
+        "American",
+        "Snacks",
+        "Turkish",
+        "Portuguese",
+      ],
+      costForTwoString: "₹300 FOR TWO",
+      deliveryTime: 29,
+      avgRating: "4.3",
+    },
+    subtype: "basic",
+  },
+];
+const CDN_URL =
+  "https://media-assets.swiggy.com/swiggy/image/upload/";
+
+  const NAMASTE_REACT_URL = "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/";
+
+export default resList;
 const Body = ()=>{
     return(
         <div className="body">
@@ -1947,24 +2109,9 @@ const Body = ()=>{
             </div>
 
             <div className="res-container">
-                <RestaurantCard resData = {resList[0]}/>
-                <RestaurantCard resData = {resList[1]}/>
-                <RestaurantCard resData = {resList[2]}/>
-                <RestaurantCard resData = {resList[3]}/>
-                <RestaurantCard resData = {resList[4]}/>
-                <RestaurantCard resData = {resList[5]}/>
-                <RestaurantCard resData = {resList[6]}/>
-                <RestaurantCard resData = {resList[7]}/>
-                <RestaurantCard resData = {resList[8]}/>
-                <RestaurantCard resData = {resList[9]}/>
-                <RestaurantCard resData = {resList[10]}/>
-                <RestaurantCard resData = {resList[11]}/>
-                <RestaurantCard resData = {resList[12]}/>
-                <RestaurantCard resData = {resList[13]}/>
-                <RestaurantCard resData = {resList[14]}/>
-
-
-
+                {
+                    fakeResList.map(restaurant => <RestaurantCard key = {restaurant.data.id} resData = { restaurant }/>)
+                }
                
             </div>
         </div>
