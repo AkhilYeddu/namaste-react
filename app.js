@@ -1,39 +1,77 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-const Title =()=> (
-    <h1 className="header">
-        Namaste React using JSX 🚀
-    </h1>
-)
+/*
 
+- Header
+    -> Logo
+    -> Nav Items
+- Body
+    -> Search
+    -> Restaurant container
+        => Restaurant Card
+- Footer
+    -> Copyright
+    -> Links
+    -> Address
+    -> Contact
 
-// Functional Component
-const HeadingComponent = ()=>{
-    return (
-        <div id= "container">
-            <Title/>
-            <Title></Title> 
-            {Title()}
-            <h2 id="chinno">{console.log("hello") }</h2>
-            <h1 className="heading">Namaste Functional Component ⚛️</h1>
+*/
+
+const Header = ()=>{
+    return(
+        <div className="header">
+            <div className="logo-container">
+                <img className="logo" src = "https://s3.amazonaws.com/cdn.designcrowd.com/blog/39-Food-Delivery-Logos-That-Will-Leave-You-Hungry-For-More/eatzilla--online-food-delivery-app-logo-by-lokesh-murali-dribbble.jpg"></img>
+            </div>
+            <div className="nav-items">
+                <ul>
+                    <li>Home</li>
+                    <li>About Us</li>
+                    <li>Contact</li>
+                    <li>Cart</li>
+                </ul>
+            </div>
+        </div>
+            
+    )
+}
+
+const RestaurantCard = ()=>{
+    return(
+        <div className="res-card">
+            <h3>Meghana Foods</h3>
         </div>
     )
 }
 
+const Body = ()=>{
+    return(
+        <div className="body">
+            <div className="search">
+                <input></input>
+                <button>Search</button>
 
+            </div>
 
+            <div className="res-container">
+                <RestaurantCard/>
+            </div>
+        </div>
+    )
+}
 
-
-const number = 26;
-
-
-
-
-
+const AppLayout = ()=>{
+    return(
+        <div className="app">
+            <Header/>
+            <Body/>
+        </div>
+    )
+}
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<HeadingComponent/>);
+root.render(<AppLayout/>)
 
 
 
