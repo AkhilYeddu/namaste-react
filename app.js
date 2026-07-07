@@ -2092,6 +2092,76 @@ const fakeResList = [
     },
     subtype: "basic",
   },
+  {
+  type: "restaurant",
+  data: {
+    id: "425",
+    name: "Hotel Empire",
+    cloudinaryImageId: "un4omn7rcunkmlw6vikr",
+    cuisines: ["North Indian", "Kebabs", "Biryani"],
+    costForTwoString: "₹450 FOR TWO",
+    deliveryTime: 30,
+    avgRating: "4.1",
+  },
+  subtype: "basic",
+},
+
+{
+  type: "restaurant",
+  data: {
+    id: "428",
+    name: "Biryani Pot",
+    cloudinaryImageId: "mdipoyzfzsa7n7igskht",
+    cuisines: ["North Indian", "Biryani"],
+    costForTwoString: "₹500 FOR TWO",
+    deliveryTime: 25,
+    avgRating: "3.8",
+  },
+  subtype: "basic",
+},
+
+{
+  type: "restaurant",
+  data: {
+    id: "63957",
+    name: "Madeena Hotel",
+    cloudinaryImageId: "yc0asfa2j9elggstyjg4",
+    cuisines: ["Biryani", "Mughlai", "Indian"],
+    costForTwoString: "₹250 FOR TWO",
+    deliveryTime: 29,
+    avgRating: "4.1",
+  },
+  subtype: "basic",
+},
+
+{
+  type: "restaurant",
+  data: {
+    id: "59593",
+    name: "Al Daaz",
+    cloudinaryImageId: "rxsvhvcdip9dbfdijzk9",
+    cuisines: ["American", "Arabian", "Chinese"],
+    costForTwoString: "₹400 FOR TWO",
+    deliveryTime: 40,
+    avgRating: "4.3",
+  },
+  subtype: "basic",
+},
+
+{
+  type: "restaurant",
+  data: {
+    id: "365010",
+    name: "Hotel Salam",
+    cloudinaryImageId: "hgdmw8uwgewhiewwovjh",
+    cuisines: ["Biryani", "Arabian", "Indian"],
+    costForTwoString: "₹250 FOR TWO",
+    deliveryTime: 31,
+    avgRating: "3.9",
+  },
+  subtype: "basic",
+},
+
 ];
 const CDN_URL =
   "https://media-assets.swiggy.com/swiggy/image/upload/";
