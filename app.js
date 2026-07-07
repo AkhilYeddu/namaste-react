@@ -40,7 +40,11 @@ const Header = ()=>{
 const RestaurantCard = ()=>{
     return(
         <div className="res-card">
+            <img className="res-logo" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/e0vvulfbahjxjz6k4uwi"></img>
             <h3>Meghana Foods</h3>
+            <h4>Biryani, South Indian, Asian</h4>
+            <h4>4.4 Stars</h4>
+            <h4>30 mins</h4>
         </div>
     )
 }

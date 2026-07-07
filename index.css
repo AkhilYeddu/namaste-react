@@ -23,8 +23,12 @@
     border: 1px solid black;
     width: 200px;
     height: 350px;
+    background-color: #f0f0f0;
+    padding: 5px;
     
 }
-.res-card > h3{
-    text-align: center;
+.res-logo{
+    height: 50%;
+    width: 100%;
+    
 }
