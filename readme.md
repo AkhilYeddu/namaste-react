@@ -20,4 +20,24 @@
 - Different Dev and Prod builds
 
 
+# Namaste Food
+/*
+
+- Header
+    -> Logo
+    -> Nav Items
+- Body
+    -> Search
+    -> Restaurant container
+        => Restaurant Card
+- Footer
+    -> Copyright
+    -> Links
+    -> Address
+    -> Contact
+
+*/
+
+
+
 
