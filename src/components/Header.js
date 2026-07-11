@@ -1,8 +1,10 @@
+import { LOGO_URL } from "../utils/constants"
+
 const Header = ()=>{
     return(
         <div className="header">
             <div className="logo-container">
-                <img className="logo" src = "https://s3.amazonaws.com/cdn.designcrowd.com/blog/39-Food-Delivery-Logos-That-Will-Leave-You-Hungry-For-More/eatzilla--online-food-delivery-app-logo-by-lokesh-murali-dribbble.jpg"></img>
+                <img className="logo" src = {LOGO_URL}></img>
             </div>
             <div className="nav-items">
                 <ul>

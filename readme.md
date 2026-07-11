@@ -38,6 +38,18 @@
 
 */
 
+Two types of import / export
+
+- Default export:
+    export default Header
+- Default import:
+    import Header from "./components/Header"
+
+
+- Named export:
+    const export CDN_URL = "https://somethingurl.xyz"
+- Named import:
+    import { CDN_URL } from "./utils/CDN_URL";
 
 
 
