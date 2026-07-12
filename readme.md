@@ -51,5 +51,8 @@ Two types of import / export
 - Named import:
     import { CDN_URL } from "./utils/CDN_URL";
 
-
+# React Hooks
+  (Normal JS utility functions given by React)
+- useState() => gives you super powerful state variables
+- useEffect()
 

@@ -44,3 +44,11 @@
     object-fit: cover;
     width: 100%;
 }
+
+.filter{
+    padding: 10px;
+}
+
+.filter-btn{
+    cursor: pointer;
+}

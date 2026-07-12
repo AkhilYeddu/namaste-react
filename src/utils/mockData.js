@@ -29,7 +29,7 @@ const resList = [
       ],
       costForTwoString: "₹200 FOR TWO",
       deliveryTime: 38,
-      avgRating: "4.2",
+      avgRating: "3.9",
     },
     subtype: "basic",
   },
