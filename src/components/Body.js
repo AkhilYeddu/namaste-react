@@ -16,17 +16,18 @@ const Body = ()=>{
     const fetchData = async()=>{
         const data = await fetch(SWIGGY_URL);
         const json =  await data.json();
-        console.log(json);
+        // console.log(json);
         const realData = json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants; //finding the restaurants inside the big messy json data
         setListOfRestaurants(realData)
     }
     console.log("body component rendered");
+    console.log(listOfRestaurants)
 
     return(
         <div className="body">
             <div className="filter">
                 <button  className="filter-btn" onClick={()=>{
-                    const filteredList = listOfRestaurants.filter(res=> res.data.avgRating > 4)
+                    const filteredList = listOfRestaurants.filter(res=> res.info.avgRating > 4)
                     setListOfRestaurants(filteredList)
                 }}>Top Rated Restaurants</button>
             </div>
