@@ -1,11 +1,17 @@
 import RestaurantCard from "./RestaurantCard";
 import resList from "../utils/mockData";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import resList from "../utils/mockData";
 
 const Body = ()=>{
     // Local State variables - super powerful react variables
     const [listOfRestaurants, setListOfRestaurants] = useState(resList)
+
+    useEffect(()=>{
+        console.log("useeffect called");
+    }, []) // this callback function will be called after the body component is rendered.
+
+    console.log("body component rendered");
 
     return(
         <div className="body">
