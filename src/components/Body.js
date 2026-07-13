@@ -8,7 +8,7 @@ const Body = ()=>{
     const [listOfRestaurants, setListOfRestaurants] = useState(resList)
 
     useEffect(()=>{
-        console.log("useeffect called");
+        fetchData()
     }, []) // this callback function will be called after the body component is rendered.
 
     console.log("body component rendered");
