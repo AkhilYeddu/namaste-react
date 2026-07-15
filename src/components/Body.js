@@ -6,6 +6,7 @@ import Shimmer from "./Shimmer";
 const Body = ()=>{
     // Local State variables - super powerful react variables
     const [listOfRestaurants, setListOfRestaurants] = useState([])
+    const [filteredRestaurants, setFilteredRestaurants] = useState([])
 
     const [searchText, setSearchText] = useState("");
     console.log(listOfRestaurants)
@@ -23,6 +24,7 @@ const Body = ()=>{
         // console.log(json);
         const realData = json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants; //finding the restaurants inside the big messy json data
         setListOfRestaurants(realData)
+        setFilteredRestaurants(realData)
     }
     
 
@@ -35,8 +37,8 @@ const Body = ()=>{
                     <input type="text" value={searchText} onChange={(e)=>{setSearchText(e.target.value)}}></input>
                     <button onClick={ () =>{
                         // filter the restaurants and update the UI
-                        const filteredRestaurants = listOfRestaurants.filter((res)=> res.info.name.toLowerCase().includes(searchText.toLowerCase()))
-                        setListOfRestaurants(filteredRestaurants)
+                        const filteredRestaurant = listOfRestaurants.filter((res)=> res.info.name.toLowerCase().includes(searchText.toLowerCase()))
+                        setFilteredRestaurants(filteredRestaurant)
 
                     }   
                     } >Search</button>
@@ -51,7 +53,7 @@ const Body = ()=>{
                 {
                     // Not using keys (not acceptable) < using indexes as keys (okay, but not recommended) > using unique ids as keys (best practice)
                     // listOfRestaurants.map(restaurant => <RestaurantCard key = {restaurant.data.id} resData = { restaurant }/>)
-                    listOfRestaurants.map(restaurant => <RestaurantCard key = {restaurant.info.id} resData = { restaurant }/>)
+                    filteredRestaurants.map(restaurant => <RestaurantCard key = {restaurant.info.id} resData = { restaurant }/>)
                 } 
             </div>
         </div>
