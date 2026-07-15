@@ -26,6 +26,10 @@ const Body = ()=>{
     return listOfRestaurants.length === 0 ? <Shimmer/> : (
         <div className="body">
             <div className="filter">
+                <div className="search">
+                    <input type="text"></input>
+                    <button>Search</button>
+                </div>
                 <button  className="filter-btn" onClick={()=>{
                     const filteredList = listOfRestaurants.filter(res=> res.info.avgRating > 4)
                     setListOfRestaurants(filteredList)
