@@ -22,7 +22,7 @@ const Body = ()=>{
         const data = await fetch(SWIGGY_URL);
         const json =  await data.json();
         // console.log(json);
-        const realData = json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants; //finding the restaurants inside the big messy json data
+        const realData = json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants; //finding the restaurants inside the big messy json data
         setListOfRestaurants(realData)
         setFilteredRestaurants(realData)
     }
