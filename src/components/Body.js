@@ -9,7 +9,7 @@ const Body = ()=>{
     const [filteredRestaurants, setFilteredRestaurants] = useState([])
 
     const [searchText, setSearchText] = useState("");
-    console.log(listOfRestaurants)
+    
     // whenever state variable changes, react triggers a reconciliation cycle(re-renders the compoenent)
     console.log("body component rendered")
 
