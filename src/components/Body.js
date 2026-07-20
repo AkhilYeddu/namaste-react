@@ -19,7 +19,7 @@ const Body = ()=>{
 
 
     const fetchData = async()=>{
-        const data = await fetch(SWIGGY_URL);
+        const data = await fetch("https://corsproxy.io/?url=" + SWIGGY_URL);
         const json =  await data.json();
         // console.log(json);
         const realData = json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants; //finding the restaurants inside the big messy json data
