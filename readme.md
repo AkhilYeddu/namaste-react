@@ -56,3 +56,7 @@ Two types of import / export
 - useState() => gives you super powerful state variables
 - useEffect()
 
+# Two types of routing in web apps:
+- Client side routing (which react uses)
+- Server side routing (traditonal way of routing)
+
