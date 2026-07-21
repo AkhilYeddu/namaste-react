@@ -5,6 +5,7 @@ import Body from "./components/Body";
 import RestaurantCard from "./components/RestaurantCard";
 import { createBrowserRouter, Route, RouterProvider } from "react-router-dom";
 import About from "./components/About";
+import Contact from "./components/Contact";
 
 
 const AppLayout = ()=>{
@@ -24,6 +25,10 @@ const appRouter = createBrowserRouter([
     {
         path:"/about",
         element: <About/>
+    },
+    {
+        path:"/contact",
+        element: <Contact/>
     }
 ])
 
