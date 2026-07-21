@@ -13,7 +13,12 @@ const AppLayout = ()=>{
     return(
         <div className="app">
         <Header/>
+        {/* {if path is / then it should render} */}
         <Body/>
+        {/* {if path is /about then it should render} */}
+        <About/>
+        {/* {if path is /contact then it should render} */}
+        <Contact/>
         </div>
     )
 }
@@ -22,16 +27,24 @@ const appRouter = createBrowserRouter([
     {
         path: "/",
         element: <AppLayout/>,
-        errorElement: <Error/>
+        errorElement: <Error/>,
+        children:[
+            {
+                path:"/",
+                element: <Body/>
+            },
+            {
+                path:"/about",
+                element: <About/>
+            },
+            {
+                path:"/contact",
+                element: <Contact/>
+            }
+
+        ]
     },
-    {
-        path:"/about",
-        element: <About/>
-    },
-    {
-        path:"/contact",
-        element: <Contact/>
-    }
+   
 ])
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
