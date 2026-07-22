@@ -1,0 +1,643 @@
+{
+  "data": {
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "info": {
+              "id": "372897",
+              "name": "Pizza Hut",
+              "city": "Bangalore",
+              "areaName": "Whitefield",
+              "avgRating": 4.3,
+              "totalRatingsString": "10K+ ratings",
+              "costForTwoMessage": "\u20b9400 for two",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/9/restaurant_mock_cover",
+              "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Fast Food"
+              ],
+              "sla": {
+                "deliveryTime": 30
+              }
+            }
+          }
+        }
+      },
+      {},
+      {},
+      {},
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1001",
+                              "name": "Margherita Pizza",
+                              "category": "Recommended",
+                              "description": "Margherita Pizza freshly prepared with premium ingredients.",
+                              "price": 19900,
+                              "defaultPrice": 19900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500001",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCountV2": "1885"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1002",
+                              "name": "Farmhouse Pizza",
+                              "category": "Recommended",
+                              "description": "Farmhouse Pizza freshly prepared with premium ingredients.",
+                              "price": 34900,
+                              "defaultPrice": 34900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500002",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCountV2": "1762"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1003",
+                              "name": "Chicken Supreme",
+                              "category": "Recommended",
+                              "description": "Chicken Supreme freshly prepared with premium ingredients.",
+                              "price": 39900,
+                              "defaultPrice": 39900,
+                              "isVeg": 0,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500003",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCountV2": "352"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1004",
+                              "name": "Veggie Lovers",
+                              "category": "Recommended",
+                              "description": "Veggie Lovers freshly prepared with premium ingredients.",
+                              "price": 32900,
+                              "defaultPrice": 32900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500004",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCountV2": "602"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1005",
+                              "name": "Tandoori Paneer",
+                              "category": "Recommended",
+                              "description": "Tandoori Paneer freshly prepared with premium ingredients.",
+                              "price": 37900,
+                              "defaultPrice": 37900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500005",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCountV2": "1747"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1006",
+                              "name": "Pepperoni Pizza",
+                              "category": "Recommended",
+                              "description": "Pepperoni Pizza freshly prepared with premium ingredients.",
+                              "price": 42900,
+                              "defaultPrice": 42900,
+                              "isVeg": 0,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500006",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCountV2": "627"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1007",
+                              "name": "Mexican Fiesta",
+                              "category": "Recommended",
+                              "description": "Mexican Fiesta freshly prepared with premium ingredients.",
+                              "price": 38900,
+                              "defaultPrice": 38900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500007",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCountV2": "1789"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1008",
+                              "name": "Chicken Tikka Pizza",
+                              "category": "Recommended",
+                              "description": "Chicken Tikka Pizza freshly prepared with premium ingredients.",
+                              "price": 41900,
+                              "defaultPrice": 41900,
+                              "isVeg": 0,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500008",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCountV2": "1291"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Garlic Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1009",
+                              "name": "Classic Garlic Bread",
+                              "category": "Garlic Breads",
+                              "description": "Classic Garlic Bread freshly prepared with premium ingredients.",
+                              "price": 14900,
+                              "defaultPrice": 14900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500009",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCountV2": "1193"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1010",
+                              "name": "Cheesy Garlic Bread",
+                              "category": "Garlic Breads",
+                              "description": "Cheesy Garlic Bread freshly prepared with premium ingredients.",
+                              "price": 18900,
+                              "defaultPrice": 18900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500010",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCountV2": "1641"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1011",
+                              "name": "Stuffed Garlic Bread",
+                              "category": "Garlic Breads",
+                              "description": "Stuffed Garlic Bread freshly prepared with premium ingredients.",
+                              "price": 24900,
+                              "defaultPrice": 24900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500011",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCountV2": "1492"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1012",
+                              "name": "Chicken Garlic Bread",
+                              "category": "Garlic Breads",
+                              "description": "Chicken Garlic Bread freshly prepared with premium ingredients.",
+                              "price": 26900,
+                              "defaultPrice": 26900,
+                              "isVeg": 0,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500012",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCountV2": "1832"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Pastas",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1013",
+                              "name": "Creamy Alfredo Pasta",
+                              "category": "Pastas",
+                              "description": "Creamy Alfredo Pasta freshly prepared with premium ingredients.",
+                              "price": 27900,
+                              "defaultPrice": 27900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500013",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCountV2": "174"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1014",
+                              "name": "Spicy Arrabbiata Pasta",
+                              "category": "Pastas",
+                              "description": "Spicy Arrabbiata Pasta freshly prepared with premium ingredients.",
+                              "price": 26900,
+                              "defaultPrice": 26900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500014",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCountV2": "1239"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1015",
+                              "name": "Chicken Alfredo Pasta",
+                              "category": "Pastas",
+                              "description": "Chicken Alfredo Pasta freshly prepared with premium ingredients.",
+                              "price": 31900,
+                              "defaultPrice": 31900,
+                              "isVeg": 0,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500015",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCountV2": "1526"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1016",
+                              "name": "Baked Cheese Pasta",
+                              "category": "Pastas",
+                              "description": "Baked Cheese Pasta freshly prepared with premium ingredients.",
+                              "price": 29900,
+                              "defaultPrice": 29900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500016",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCountV2": "1379"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Sides",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1017",
+                              "name": "French Fries",
+                              "category": "Sides",
+                              "description": "French Fries freshly prepared with premium ingredients.",
+                              "price": 12900,
+                              "defaultPrice": 12900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500017",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCountV2": "193"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1018",
+                              "name": "Chicken Wings",
+                              "category": "Sides",
+                              "description": "Chicken Wings freshly prepared with premium ingredients.",
+                              "price": 29900,
+                              "defaultPrice": 29900,
+                              "isVeg": 0,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500018",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCountV2": "1877"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1019",
+                              "name": "Potato Wedges",
+                              "category": "Sides",
+                              "description": "Potato Wedges freshly prepared with premium ingredients.",
+                              "price": 14900,
+                              "defaultPrice": 14900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500019",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCountV2": "1642"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1020",
+                              "name": "Chicken Popcorn",
+                              "category": "Sides",
+                              "description": "Chicken Popcorn freshly prepared with premium ingredients.",
+                              "price": 24900,
+                              "defaultPrice": 24900,
+                              "isVeg": 0,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500020",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCountV2": "1692"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1021",
+                              "name": "Chocolate Lava Cake",
+                              "category": "Desserts",
+                              "description": "Chocolate Lava Cake freshly prepared with premium ingredients.",
+                              "price": 11900,
+                              "defaultPrice": 11900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500021",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCountV2": "1791"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1022",
+                              "name": "Red Velvet Cake",
+                              "category": "Desserts",
+                              "description": "Red Velvet Cake freshly prepared with premium ingredients.",
+                              "price": 14900,
+                              "defaultPrice": 14900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500022",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCountV2": "1307"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1023",
+                              "name": "Brownie",
+                              "category": "Desserts",
+                              "description": "Brownie freshly prepared with premium ingredients.",
+                              "price": 9900,
+                              "defaultPrice": 9900,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500023",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCountV2": "195"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1024",
+                              "name": "Pepsi 500ml",
+                              "category": "Beverages",
+                              "description": "Pepsi 500ml freshly prepared with premium ingredients.",
+                              "price": 6000,
+                              "defaultPrice": 6000,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500024",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCountV2": "600"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1025",
+                              "name": "7UP 500ml",
+                              "category": "Beverages",
+                              "description": "7UP 500ml freshly prepared with premium ingredients.",
+                              "price": 6000,
+                              "defaultPrice": 6000,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500025",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCountV2": "983"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1026",
+                              "name": "Mirinda 500ml",
+                              "category": "Beverages",
+                              "description": "Mirinda 500ml freshly prepared with premium ingredients.",
+                              "price": 6000,
+                              "defaultPrice": 6000,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500026",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCountV2": "991"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "info": {
+                              "id": "1027",
+                              "name": "Lipton Ice Tea",
+                              "category": "Beverages",
+                              "description": "Lipton Ice Tea freshly prepared with premium ingredients.",
+                              "price": 9000,
+                              "defaultPrice": 9000,
+                              "isVeg": 1,
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/500027",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCountV2": "352"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
