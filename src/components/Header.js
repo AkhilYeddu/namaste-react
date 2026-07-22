@@ -12,7 +12,7 @@ const Header = ()=>{
     
 
     useEffect(()=>{
-        console.log("useEffect called")
+        console.log("useEffect called for header component")
     },[])
     return(
         <div className="header">

@@ -1,0 +1,1657 @@
+{
+  "menus": {
+    "1001": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1001",
+                  "name": "Pizza Hut",
+                  "cuisines": [
+                    "Pizza",
+                    "Italian"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100101,
+                                  "name": "Margherita",
+                                  "description": "Delicious Margherita.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1001_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100102,
+                                  "name": "Farmhouse",
+                                  "description": "Delicious Farmhouse.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1001_2/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100103,
+                                  "name": "Veggie Supreme",
+                                  "description": "Delicious Veggie Supreme.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1001_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100104,
+                                  "name": "Chicken Supreme",
+                                  "description": "Delicious Chicken Supreme.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1001_4/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100105,
+                                  "name": "Garlic Bread",
+                                  "description": "Delicious Garlic Bread.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1001_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100106,
+                                  "name": "Cheesy Garlic Bread",
+                                  "description": "Delicious Cheesy Garlic Bread.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1001_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100107,
+                                  "name": "Tandoori Paneer Pizza",
+                                  "description": "Delicious Tandoori Paneer Pizza.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1001_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100108,
+                                  "name": "Chocolate Lava Cake",
+                                  "description": "Delicious Chocolate Lava Cake.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1001_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100109,
+                                  "name": "Pepsi",
+                                  "description": "Delicious Pepsi.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1001_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100110,
+                                  "name": "Pasta Alfredo",
+                                  "description": "Delicious Pasta Alfredo.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1001_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1002": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1002",
+                  "name": "Domino's Pizza",
+                  "cuisines": [
+                    "Pizza"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100201,
+                                  "name": "Peppy Paneer",
+                                  "description": "Delicious Peppy Paneer.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1002_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100202,
+                                  "name": "Chicken Dominator",
+                                  "description": "Delicious Chicken Dominator.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1002_2/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100203,
+                                  "name": "Veg Extravaganza",
+                                  "description": "Delicious Veg Extravaganza.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1002_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100204,
+                                  "name": "Garlic Breadsticks",
+                                  "description": "Delicious Garlic Breadsticks.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1002_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100205,
+                                  "name": "Choco Lava",
+                                  "description": "Delicious Choco Lava.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1002_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100206,
+                                  "name": "Coke",
+                                  "description": "Delicious Coke.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1002_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100207,
+                                  "name": "Paneer Zingy",
+                                  "description": "Delicious Paneer Zingy.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1002_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100208,
+                                  "name": "Corn Pizza",
+                                  "description": "Delicious Corn Pizza.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1002_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100209,
+                                  "name": "Stuffed Garlic Bread",
+                                  "description": "Delicious Stuffed Garlic Bread.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1002_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100210,
+                                  "name": "Sprite",
+                                  "description": "Delicious Sprite.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1002_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1003": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1003",
+                  "name": "KFC",
+                  "cuisines": [
+                    "Chicken",
+                    "Burgers"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100301,
+                                  "name": "Zinger Burger",
+                                  "description": "Delicious Zinger Burger.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1003_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100302,
+                                  "name": "Hot Wings",
+                                  "description": "Delicious Hot Wings.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1003_2/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100303,
+                                  "name": "Chicken Bucket",
+                                  "description": "Delicious Chicken Bucket.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1003_3/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100304,
+                                  "name": "Popcorn Chicken",
+                                  "description": "Delicious Popcorn Chicken.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1003_4/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100305,
+                                  "name": "French Fries",
+                                  "description": "Delicious French Fries.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1003_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100306,
+                                  "name": "Chicken Strips",
+                                  "description": "Delicious Chicken Strips.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1003_6/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100307,
+                                  "name": "Pepsi",
+                                  "description": "Delicious Pepsi.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1003_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100308,
+                                  "name": "Krushers",
+                                  "description": "Delicious Krushers.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1003_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100309,
+                                  "name": "Rice Bowl",
+                                  "description": "Delicious Rice Bowl.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1003_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100310,
+                                  "name": "Veg Burger",
+                                  "description": "Delicious Veg Burger.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1003_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1004": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1004",
+                  "name": "Burger King",
+                  "cuisines": [
+                    "Burgers"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100401,
+                                  "name": "Whopper",
+                                  "description": "Delicious Whopper.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1004_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100402,
+                                  "name": "Chicken Whopper",
+                                  "description": "Delicious Chicken Whopper.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1004_2/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100403,
+                                  "name": "Veg Whopper",
+                                  "description": "Delicious Veg Whopper.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1004_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100404,
+                                  "name": "Fries",
+                                  "description": "Delicious Fries.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1004_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100405,
+                                  "name": "Peri Peri Fries",
+                                  "description": "Delicious Peri Peri Fries.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1004_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100406,
+                                  "name": "Coke",
+                                  "description": "Delicious Coke.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1004_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100407,
+                                  "name": "Brownie",
+                                  "description": "Delicious Brownie.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1004_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100408,
+                                  "name": "Chicken Nuggets",
+                                  "description": "Delicious Chicken Nuggets.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1004_8/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100409,
+                                  "name": "Crispy Burger",
+                                  "description": "Delicious Crispy Burger.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1004_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100410,
+                                  "name": "Shake",
+                                  "description": "Delicious Shake.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1004_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1005": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1005",
+                  "name": "McDonald's",
+                  "cuisines": [
+                    "Fast Food"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100501,
+                                  "name": "McAloo Tikki",
+                                  "description": "Delicious McAloo Tikki.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1005_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100502,
+                                  "name": "McSpicy Chicken",
+                                  "description": "Delicious McSpicy Chicken.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1005_2/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100503,
+                                  "name": "McVeggie",
+                                  "description": "Delicious McVeggie.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1005_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100504,
+                                  "name": "Fries",
+                                  "description": "Delicious Fries.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1005_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100505,
+                                  "name": "McFlurry",
+                                  "description": "Delicious McFlurry.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1005_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100506,
+                                  "name": "Coke",
+                                  "description": "Delicious Coke.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1005_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100507,
+                                  "name": "Chicken Nuggets",
+                                  "description": "Delicious Chicken Nuggets.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1005_7/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100508,
+                                  "name": "Wrap",
+                                  "description": "Delicious Wrap.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1005_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100509,
+                                  "name": "Sundae",
+                                  "description": "Delicious Sundae.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1005_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100510,
+                                  "name": "Coffee",
+                                  "description": "Delicious Coffee.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1005_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1006": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1006",
+                  "name": "Truffles",
+                  "cuisines": [
+                    "Cafe",
+                    "Burgers"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100601,
+                                  "name": "Classic Burger",
+                                  "description": "Delicious Classic Burger.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1006_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100602,
+                                  "name": "BBQ Burger",
+                                  "description": "Delicious BBQ Burger.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1006_2/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100603,
+                                  "name": "Pasta",
+                                  "description": "Delicious Pasta.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1006_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100604,
+                                  "name": "Nachos",
+                                  "description": "Delicious Nachos.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1006_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100605,
+                                  "name": "Fries",
+                                  "description": "Delicious Fries.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1006_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100606,
+                                  "name": "Brownie",
+                                  "description": "Delicious Brownie.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1006_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100607,
+                                  "name": "Cold Coffee",
+                                  "description": "Delicious Cold Coffee.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1006_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100608,
+                                  "name": "Pizza",
+                                  "description": "Delicious Pizza.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1006_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100609,
+                                  "name": "Steak",
+                                  "description": "Delicious Steak.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1006_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100610,
+                                  "name": "Lemonade",
+                                  "description": "Delicious Lemonade.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1006_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1007": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1007",
+                  "name": "Meghana Foods",
+                  "cuisines": [
+                    "Biryani"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100701,
+                                  "name": "Chicken Biryani",
+                                  "description": "Delicious Chicken Biryani.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1007_1/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100702,
+                                  "name": "Mutton Biryani",
+                                  "description": "Delicious Mutton Biryani.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1007_2/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100703,
+                                  "name": "Paneer Biryani",
+                                  "description": "Delicious Paneer Biryani.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1007_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100704,
+                                  "name": "Chicken 65",
+                                  "description": "Delicious Chicken 65.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1007_4/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100705,
+                                  "name": "Apollo Fish",
+                                  "description": "Delicious Apollo Fish.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1007_5/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100706,
+                                  "name": "Butter Chicken",
+                                  "description": "Delicious Butter Chicken.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1007_6/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100707,
+                                  "name": "Naan",
+                                  "description": "Delicious Naan.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1007_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100708,
+                                  "name": "Gulab Jamun",
+                                  "description": "Delicious Gulab Jamun.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1007_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100709,
+                                  "name": "Curd Rice",
+                                  "description": "Delicious Curd Rice.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1007_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100710,
+                                  "name": "Kebab",
+                                  "description": "Delicious Kebab.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1007_10/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1008": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1008",
+                  "name": "Chinese Wok",
+                  "cuisines": [
+                    "Chinese"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100801,
+                                  "name": "Hakka Noodles",
+                                  "description": "Delicious Hakka Noodles.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1008_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100802,
+                                  "name": "Schezwan Noodles",
+                                  "description": "Delicious Schezwan Noodles.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1008_2/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100803,
+                                  "name": "Fried Rice",
+                                  "description": "Delicious Fried Rice.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1008_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100804,
+                                  "name": "Manchurian",
+                                  "description": "Delicious Manchurian.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1008_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100805,
+                                  "name": "Spring Rolls",
+                                  "description": "Delicious Spring Rolls.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1008_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100806,
+                                  "name": "Momos",
+                                  "description": "Delicious Momos.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1008_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100807,
+                                  "name": "Chilli Chicken",
+                                  "description": "Delicious Chilli Chicken.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1008_7/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100808,
+                                  "name": "Soup",
+                                  "description": "Delicious Soup.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1008_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100809,
+                                  "name": "Pepsi",
+                                  "description": "Delicious Pepsi.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1008_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100810,
+                                  "name": "Brownie",
+                                  "description": "Delicious Brownie.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1008_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1009": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1009",
+                  "name": "Empire Restaurant",
+                  "cuisines": [
+                    "North Indian"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100901,
+                                  "name": "Chicken Shawarma",
+                                  "description": "Delicious Chicken Shawarma.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1009_1/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100902,
+                                  "name": "Butter Chicken",
+                                  "description": "Delicious Butter Chicken.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1009_2/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100903,
+                                  "name": "Chicken Biryani",
+                                  "description": "Delicious Chicken Biryani.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1009_3/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100904,
+                                  "name": "Tandoori",
+                                  "description": "Delicious Tandoori.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1009_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100905,
+                                  "name": "Rumali Roti",
+                                  "description": "Delicious Rumali Roti.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1009_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100906,
+                                  "name": "Paneer Butter Masala",
+                                  "description": "Delicious Paneer Butter Masala.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1009_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100907,
+                                  "name": "Falooda",
+                                  "description": "Delicious Falooda.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1009_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100908,
+                                  "name": "Lassi",
+                                  "description": "Delicious Lassi.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1009_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100909,
+                                  "name": "Kebab",
+                                  "description": "Delicious Kebab.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1009_9/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100910,
+                                  "name": "Naan",
+                                  "description": "Delicious Naan.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1009_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1010": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1010",
+                  "name": "Subway",
+                  "cuisines": [
+                    "Sandwiches"
+                  ],
+                  "costForTwoMessage": "\u20b9300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101001,
+                                  "name": "Veg Delight",
+                                  "description": "Delicious Veg Delight.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1010_1/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101002,
+                                  "name": "Chicken Tikka Sub",
+                                  "description": "Delicious Chicken Tikka Sub.",
+                                  "price": 24900,
+                                  "imageId": "https://picsum.photos/seed/1010_2/500/500",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101003,
+                                  "name": "Paneer Tikka Sub",
+                                  "description": "Delicious Paneer Tikka Sub.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1010_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101004,
+                                  "name": "Italian BMT",
+                                  "description": "Delicious Italian BMT.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1010_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101005,
+                                  "name": "Cookies",
+                                  "description": "Delicious Cookies.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1010_5/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101006,
+                                  "name": "Wrap",
+                                  "description": "Delicious Wrap.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1010_6/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101007,
+                                  "name": "Salad",
+                                  "description": "Delicious Salad.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1010_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101008,
+                                  "name": "Coke",
+                                  "description": "Delicious Coke.",
+                                  "price": 14900,
+                                  "imageId": "https://picsum.photos/seed/1010_8/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101009,
+                                  "name": "Chips",
+                                  "description": "Delicious Chips.",
+                                  "price": 19900,
+                                  "imageId": "https://picsum.photos/seed/1010_9/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101010,
+                                  "name": "Coffee",
+                                  "description": "Delicious Coffee.",
+                                  "price": 34900,
+                                  "imageId": "https://picsum.photos/seed/1010_10/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

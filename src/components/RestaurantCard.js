@@ -1,4 +1,4 @@
-import { CDN_URL } from "../utils/constants";
+import { CDN_URL, FAKE_IMG_URL } from "../utils/constants";
 
 const RestaurantCard = (props)=>{
    
@@ -6,8 +6,7 @@ const RestaurantCard = (props)=>{
     const {name, cuisines, avgRating, costForTwo,costForTwoString, sla, cloudinaryImageId} = resData?.info //optional chaining
     return(
         <div className="res-card">
-            <img className="res-logo" src={CDN_URL + 
-                cloudinaryImageId}>
+            <img className="res-logo" src={ cloudinaryImageId}>
             </img>
             <h3>{name}</h3>
             <h4>{cuisines.join(", ")}</h4>

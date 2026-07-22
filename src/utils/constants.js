@@ -7,4 +7,4 @@ export const LOGO_URL =
 
 export const SWIGGY_URL = "https://foodfire.onrender.com/api/restaurants?lat=12.9836333&lng=77.7322581"
 
-export const SWIGGY_MENU_URL = "https://foodfire.onrender.com/api/menu?page-type=REGULAR_MENU&complete-menu=true&lat=12.9836333&lng=77.7322581&submitAction=ENTER&restaurantId=205488"
+export const SWIGGY_MENU_URL = "https://foodfire.onrender.com/api/menu?page-type=REGULAR_MENU&complete-menu=true&lat=12.9836333&lng=77.7322581&submitAction=ENTER&restaurantId=424877"

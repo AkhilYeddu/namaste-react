@@ -60,3 +60,8 @@ Two types of import / export
 - Client side routing (which react uses)
 - Server side routing (traditonal way of routing)
 
+# working menu apis
+- pizza hut
+- Olio - The Wood Fired Pizzeria
+- Dilliwale Pahelvanjee'S Cholle Bhature
+

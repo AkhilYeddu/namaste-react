@@ -2,8 +2,10 @@ import RestaurantCard from "./RestaurantCard";
 import { useEffect, useState } from "react";
 import {SWIGGY_URL} from "../utils/constants";
 import Shimmer from "./Shimmer";
+import restaurantData from "../utils/restaurants.json"
 
 const Body = ()=>{
+    
     // Local State variables - super powerful react variables
     const [listOfRestaurants, setListOfRestaurants] = useState([])
     const [filteredRestaurants, setFilteredRestaurants] = useState([])
@@ -12,6 +14,7 @@ const Body = ()=>{
     
     // whenever state variable changes, react triggers a reconciliation cycle(re-renders the compoenent)
     console.log("body component rendered")
+    
 
     useEffect(()=>{
         fetchData()
@@ -25,7 +28,16 @@ const Body = ()=>{
         const realData = json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants; //finding the restaurants inside the big messy json data
         setListOfRestaurants(realData)
         setFilteredRestaurants(realData)
+
+       const fakeData = restaurantData.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants
+       setListOfRestaurants(fakeData)
+       setFilteredRestaurants(fakeData)
+        
+        
+
     }
+
+    console.log(listOfRestaurants)
     
 
 
