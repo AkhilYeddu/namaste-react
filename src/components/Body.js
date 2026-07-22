@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import {SWIGGY_URL} from "../utils/constants";
 import Shimmer from "./Shimmer";
 import restaurantData from "../utils/restaurants.json"
+import { Link } from "react-router-dom";
 
 const Body = ()=>{
     
@@ -65,7 +66,12 @@ const Body = ()=>{
                 {
                     // Not using keys (not acceptable) < using indexes as keys (okay, but not recommended) > using unique ids as keys (best practice)
                     // listOfRestaurants.map(restaurant => <RestaurantCard key = {restaurant.data.id} resData = { restaurant }/>)
-                    filteredRestaurants.map(restaurant => <RestaurantCard key = {restaurant.info.id} resData = { restaurant }/>)
+                    filteredRestaurants.map(restaurant =>
+                        <Link key = {restaurant.info.id} to={"/restaurants/" + restaurant.info.id}>
+                            <RestaurantCard  resData = { restaurant }/>
+                        </Link>
+                         
+                        )
                 } 
             </div>
         </div>

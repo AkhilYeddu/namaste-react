@@ -26,13 +26,10 @@ const RestaurantMenu = ()=>{
     
     if(resInfo.length === 0) return <Shimmer/>
 
-    console.log(resInfo)
 
     const{name, costForTwoMessage, cuisines} = resInfo?.cards[2].card?.card?.info
-    console.log(name, costForTwoMessage, cuisines)
-
     const{itemCards} = resInfo?.cards[4].groupedCard?.cardGroupMap?.REGULAR?.cards[2].card?.card
-    console.log(itemCards)
+
    
 
 
@@ -43,7 +40,11 @@ const RestaurantMenu = ()=>{
 
             <ul>
                 {
-                    itemCards.map(item => <li key = {item.card.info.id}> {item.card.info.name} - Rs {item.card.info.price / 100}</li>)
+                    itemCards.map(item => 
+                    <li key = {item.card.info.id}>
+                         {item.card.info.name} - Rs {item.card.info.price / 100}
+                         <img src={item.card.info.imageId} className="menu-img"></img>
+                    </li>)
                 }
             </ul>
         </div>
