@@ -5,14 +5,14 @@ class UserClass extends React.Component{
             super(props) // mandatory to write super(props) why??
             console.log(props)
         }
-
+ 
     render(){
-        
+        const {name, location, contact} = this.props;
         return(
             <div className="user-card">
-                <h3>Name : {this.props.name}</h3>
-                <h3>City : Visakhapatnam</h3>
-                <h3>Contact : 8919262972</h3>
+                <h3>Name : {name}</h3>
+                <h3>City : {location}</h3>
+                <h3>Contact : {contact}</h3>
         </div>
         )
     }
