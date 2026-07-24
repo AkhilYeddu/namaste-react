@@ -3,19 +3,20 @@ import React from "react";
 class UserClass extends React.Component{
     constructor(props){
             super(props) // mandatory to write super(props) why??
-            +console.log("Child constructor")
+            console.log(this.props.name + " constructor")
 
             this.state = {
                 count : 0
             }
         }
     componentDidMount(){
-        console.log("Child component did mount")
+        console.log(this.props.name + " component did mount")
+        // Api calls are made here
     }
     render(){
         const {name, location, contact} = this.props;
         const {count} = this.state;
-        console.log("Child render")
+        console.log(this.props.name + " render")
         return(
             <div className="user-card">
                 <h2>Count = {count}</h2>
