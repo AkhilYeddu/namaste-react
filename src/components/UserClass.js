@@ -32,6 +32,10 @@ class UserClass extends React.Component{
         console.log("Component did update")
     }
 
+    componentWillUnmount(){
+        console.log("component will unmount")
+    }
+
     
     render(){
         console.log(this.props.name + " render")
