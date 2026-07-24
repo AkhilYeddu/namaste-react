@@ -24,3 +24,25 @@ class About extends React.Component{
 }
 
 export default About
+
+/*
+
+- Parent constructor
+- Parent render
+    - first constructor
+    - first render
+
+    - second constructor
+    - second render
+
+    <DOM UPDATED - IN A SINGLE BATCH>
+
+    - first component did mount
+    - second component did mount 
+- Parent component did mount 
+
+
+
+
+
+*/
