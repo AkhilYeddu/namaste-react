@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Header = ()=>{
     const [btnName, setBtnName] = useState("login"); //everytime this state variable changes, the header component is rendered again
-    console.log("Header compoenent rendered")
+    // console.log("Header compoenent rendered")
 
     // case-1 : if there is no dependancy array, useEffect will be called for every component render.
     // case-2 : if there is a empty dependancy array, useEffect will be called for only initial render( just once )
