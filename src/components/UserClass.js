@@ -28,7 +28,10 @@ class UserClass extends React.Component{
        
     }
 
-    componentDidUpdate(){
+    componentDidUpdate(prevState, prevProps){
+        if(this.state.userInfo != prevState.userInfo || this.state.count != prevState.count){
+            console.log("userinfo or count changed!")
+        }
         console.log("Component did update")
     }
 
