@@ -8,18 +8,10 @@ const RestaurantMenu = ()=>{
 
     const { resId } = useParams();
     const resInfo = useRestaurantMenu(resId); // own custom hook
-
-   
-
-    
+ 
     if(!resInfo) return <Shimmer/>
-
-
     const{name, costForTwoMessage, cuisines} = resInfo?.cards[2].card?.card?.info
     const{itemCards} = resInfo?.cards[4].groupedCard?.cardGroupMap?.REGULAR?.cards[2].card?.card
-
-   
-
 
     return  (
         <div className="res-menu">

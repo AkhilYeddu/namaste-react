@@ -4,6 +4,7 @@ import {SWIGGY_URL} from "../utils/constants";
 import Shimmer from "./Shimmer";
 import restaurantData from "../utils/restaurants.json"
 import { Link } from "react-router-dom";
+import useOnlineStatus from "../utils/useOnlineStatus";
 
 const Body = ()=>{
     
@@ -15,11 +16,12 @@ const Body = ()=>{
     
     // whenever state variable changes, react triggers a reconciliation cycle(re-renders the compoenent)
     console.log("body component rendered")
-    
 
+    
     useEffect(()=>{
+        console.log("fetching the data")
         fetchData()
-    }, []) // this callback function will be called after the body component is rendered.
+    },[] ) // this callback function will be called after the body component is rendered.
 
 
     const fetchData = async()=>{
@@ -40,6 +42,14 @@ const Body = ()=>{
 
     console.log(listOfRestaurants)
     
+    const onlineStatus = useOnlineStatus();
+    console.log(onlineStatus);
+
+    if(!onlineStatus){
+        return(
+            <h1>Looks like you are offline, please check your connection and try again</h1>
+        )
+    }
 
 
 
