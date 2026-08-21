@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 import { LOGO_URL } from "../utils/constants"
 import { Link } from "react-router-dom";
+import useOnlineStatus from "../utils/useOnlineStatus";
 
 const Header = ()=>{
     const [btnName, setBtnName] = useState("login"); //everytime this state variable changes, the header component is rendered again
@@ -14,6 +15,9 @@ const Header = ()=>{
     useEffect(()=>{
         console.log("useEffect called for header component")
     },[])
+
+    const onlineStatus = useOnlineStatus();
+
     return(
         <div className="header">
             <div className="logo-container">
@@ -21,6 +25,12 @@ const Header = ()=>{
             </div>
             <div className="nav-items">
                 <ul>
+                    <li>
+                        Online status : 
+                        {
+                            onlineStatus ? "🟢" : "🔴"
+                        }
+                    </li>
                     <li>
                         <Link to="/"> Home</Link>
                     </li>

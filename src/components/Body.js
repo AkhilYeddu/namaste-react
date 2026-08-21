@@ -19,7 +19,6 @@ const Body = ()=>{
 
     
     useEffect(()=>{
-        console.log("fetching the data")
         fetchData()
     },[] ) // this callback function will be called after the body component is rendered.
 
@@ -35,16 +34,11 @@ const Body = ()=>{
        const fakeData = restaurantData.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants
        setListOfRestaurants(fakeData)
        setFilteredRestaurants(fakeData)
-        
-        
-
     }
 
     console.log(listOfRestaurants)
     
     const onlineStatus = useOnlineStatus();
-    console.log(onlineStatus);
-
     if(!onlineStatus){
         return(
             <h1>Looks like you are offline, please check your connection and try again</h1>
