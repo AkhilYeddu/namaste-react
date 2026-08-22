@@ -10,6 +10,11 @@ import Error from "./components/Error";
 import RestaurantMenu from "./components/RestaurantMenu";
 // import Grocery from "./components/Grocery";
 
+
+// Chunking
+// Lazy Loading
+// Dynamic Bundling
+// On Demand Bundling
 const Grocery = lazy(()=> import("./components/Grocery"))
 
 const AppLayout = ()=>{
