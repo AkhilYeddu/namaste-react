@@ -77,7 +77,7 @@ const Body = ()=>{
                     // Not using keys (not acceptable) < using indexes as keys (okay, but not recommended) > using unique ids as keys (best practice)
                     // listOfRestaurants.map(restaurant => <RestaurantCard key = {restaurant.data.id} resData = { restaurant }/>)
                     filteredRestaurants.map(restaurant =>
-                        <Link key = {restaurant.info.id} to={"/restaurants/" + restaurant.info.id}>
+                        <Link className="m-4 w-[250px]"key = {restaurant.info.id} to={"/restaurants/" + restaurant.info.id}>
                             <RestaurantCard  resData = { restaurant }/>
                         </Link>
                          
