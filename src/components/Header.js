@@ -19,12 +19,12 @@ const Header = ()=>{
     const onlineStatus = useOnlineStatus();
 
     return(
-        <div className="header">
+        <div className="flex bg-pink-100 justify-between p-2 shadow-xl">
             <div className="logo-container">
-                <img className="logo" src = {LOGO_URL}></img>
+                <img className="w-30" src = {LOGO_URL}></img>
             </div>
-            <div className="nav-items">
-                <ul>
+            <div className="flex items-center">
+                <ul className="flex m-6 p-6">
                     <li>
                         Online status : 
                         {

@@ -49,10 +49,10 @@ const Body = ()=>{
 
     return listOfRestaurants.length === 0 ? <Shimmer/> : (
         <div className="body">
-            <div className="filter">
-                <div className="search">
-                    <input type="text" value={searchText} onChange={(e)=>{setSearchText(e.target.value)}}></input>
-                    <button onClick={ () =>{
+            <div className="flex items-center">
+                <div className="search m-4 p-4">
+                    <input type="text" className="border border-solid border-black" value={searchText} onChange={(e)=>{setSearchText(e.target.value)}}></input>
+                    <button className="m-4 px-4 py-2 bg-green-100 rounded-lg" onClick={ () =>{
                         // filter the restaurants and update the UI
                         const filteredRestaurant = listOfRestaurants.filter((res)=> res.info.name.toLowerCase().includes(searchText.toLowerCase()))
                         setFilteredRestaurants(filteredRestaurant)
@@ -60,13 +60,19 @@ const Body = ()=>{
                     }   
                     } >Search</button>
                 </div>
-                <button  className="filter-btn" onClick={()=>{
+                
+                <div>
+                    <button  className="bg-orange-200 px-4 py-2 rounded-lg" onClick={()=>{
                     const filteredList = listOfRestaurants.filter(res=> res.info.avgRating > 4)
                     setListOfRestaurants(filteredList)
-                }}>Top Rated Restaurants</button>
+                    }}>Top Rated Restaurants</button>
+                </div>
+                
+
+
             </div>
 
-            <div className="res-container">
+            <div className="flex flex-wrap">
                 {
                     // Not using keys (not acceptable) < using indexes as keys (okay, but not recommended) > using unique ids as keys (best practice)
                     // listOfRestaurants.map(restaurant => <RestaurantCard key = {restaurant.data.id} resData = { restaurant }/>)
