@@ -1,4 +1,4 @@
-import RestaurantCard from "./RestaurantCard";
+import RestaurantCard,{withPromotedLabel} from "./RestaurantCard";
 import { useEffect, useState } from "react";
 import {SWIGGY_URL} from "../utils/constants";
 import Shimmer from "./Shimmer";
@@ -13,6 +13,8 @@ const Body = ()=>{
     const [filteredRestaurants, setFilteredRestaurants] = useState([])
 
     const [searchText, setSearchText] = useState("");
+
+    
     
     // whenever state variable changes, react triggers a reconciliation cycle(re-renders the compoenent)
     console.log("body component rendered")
@@ -45,6 +47,7 @@ const Body = ()=>{
         )
     }
 
+    const RestaurantCardPromoted = withPromotedLabel(RestaurantCard)
 
 
     return listOfRestaurants.length === 0 ? <Shimmer/> : (
@@ -77,8 +80,17 @@ const Body = ()=>{
                     // Not using keys (not acceptable) < using indexes as keys (okay, but not recommended) > using unique ids as keys (best practice)
                     // listOfRestaurants.map(restaurant => <RestaurantCard key = {restaurant.data.id} resData = { restaurant }/>)
                     filteredRestaurants.map(restaurant =>
-                        <Link className="m-4 w-[250px]"key = {restaurant.info.id} to={"/restaurants/" + restaurant.info.id}>
-                            <RestaurantCard  resData = { restaurant }/>
+                        <Link className="m-4 w-[250px]" key = {restaurant.info.id} to={"/restaurants/" + restaurant.info.id}>
+                            {/* if the restaurant is promoted, use RestaurantCardPromoted, or else use normal RestaurantCard */
+                                restaurant.info?.promoted ? (
+
+                                    <RestaurantCardPromoted resData = {restaurant}/>
+                                ) : (
+                                    <RestaurantCard resData = {restaurant}/>
+                                )
+                            
+                            }
+                            
                         </Link>
                          
                         )
