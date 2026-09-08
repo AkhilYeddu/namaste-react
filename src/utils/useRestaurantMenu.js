@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import resMenu from "../utils/all_menus.json"
 const useRestaurantMenu = (resId)=>{
-    console.log("custom hook called")
+    // custom hook
     const json = resMenu.menus
     const [resInfo, setResInfo] = useState(null);
 
@@ -11,7 +11,6 @@ const useRestaurantMenu = (resId)=>{
 
     const fetchMenu = async()=>{
         setResInfo(json[resId].data)
-        console.log(resInfo)
     }
     return resInfo
 }
