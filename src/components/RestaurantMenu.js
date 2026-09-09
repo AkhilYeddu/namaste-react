@@ -10,7 +10,7 @@ const RestaurantMenu = ()=>{
     const { resId } = useParams();
     const resInfo = useRestaurantMenu(resId); // own custom hook
     const categories = resInfo?.cards[4].groupedCard?.cardGroupMap?.REGULAR?.cards?.filter(c => c.card?.card?.title)
-    
+    const [showIndex, setShowIndex] = useState(0)
  
     if(!resInfo) return <Shimmer/>
     const{name, costForTwoMessage, cuisines} = resInfo?.cards[2].card?.card?.info
@@ -23,8 +23,8 @@ const RestaurantMenu = ()=>{
             {/* categories accordions */}
             {
                 
-                categories.map((category)=>{
-                    return <RestaurantCategory data = {category?.card?.card} key = {category?.card?.card?.title}/>
+                categories.map((category, index)=>{
+                    return <RestaurantCategory data = {category?.card?.card} key = {category?.card?.card?.title} showItems = {index === showIndex && true} setShowIndex = {()=> setShowIndex(index)}/>
                     
                 })
             }
