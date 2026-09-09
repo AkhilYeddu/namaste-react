@@ -9,6 +9,25 @@ const ItemList = (props)=>{
 
                     <div key = {item.card.info.id} className="text-left flex justify-between  border-gray-300 my-4 py-4 border-b-2">
                         <div className="w-9/12">
+                        {
+                            console.log("isVeg:", item.card.info.isVeg)
+                        }
+                        {
+                            
+                            item.card.info.isVeg === 1 ?  (
+                                <div className="flex items-center justify-center w-4 h-4 border-2 border-emerald-600 p-0.5 box-border rounded-sm">
+                                    <div className="w-2 h-2 bg-emerald-600 rounded-full"></div>
+                                </div>
+
+                            ) : (
+                               <div className="flex items-center justify-center w-4 h-4 border-2 border-amber-900 p-0.5 box-border rounded-sm">
+                                    <div className="w-0 h-0 border-x-[5px] border-x-transparent border-b-[9px] border-b-amber-900"></div>
+                                </div>
+
+                            )
+                        }
+                        
+
                             <div className="font-bold"> {item.card.info.name}</div>
                             <div className="text-md"> ₹{item.card.info.price/100}</div>
                             <p className="text-sm">{item.card.info.description}</p>
