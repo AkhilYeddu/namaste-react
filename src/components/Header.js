@@ -1,11 +1,15 @@
-import { useEffect, useState } from "react"
+import { useContext, useEffect, useState } from "react"
 import { LOGO_URL } from "../utils/constants"
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContext";
 
 const Header = ()=>{
     const [btnName, setBtnName] = useState("login"); //everytime this state variable changes, the header component is rendered again
     // console.log("Header compoenent rendered")
+    const data = useContext(UserContext);
+    const {loggedInUser} = data;
+    
 
     // case-1 : if there is no dependancy array, useEffect will be called for every component render.
     // case-2 : if there is a empty dependancy array, useEffect will be called for only initial render( just once )
@@ -47,6 +51,8 @@ const Header = ()=>{
                     <button className="login" onClick={()=>{
                         btnName === "login" ? setBtnName("logout") : setBtnName("login")
                     }}>{btnName}</button>
+
+                    <li className="px-4 font-bold italic">Hello, {loggedInUser}</li>
                 </ul>
             </div>
         </div>

@@ -10,7 +10,7 @@ const RestaurantMenu = ()=>{
     const { resId } = useParams();
     const resInfo = useRestaurantMenu(resId); // own custom hook
     const categories = resInfo?.cards[4].groupedCard?.cardGroupMap?.REGULAR?.cards?.filter(c => c.card?.card?.title)
-    const [showIndex, setShowIndex] = useState(0)
+    const [showIndex, setShowIndex] = useState(null)
  
     if(!resInfo) return <Shimmer/>
     const{name, costForTwoMessage, cuisines} = resInfo?.cards[2].card?.card?.info

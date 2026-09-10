@@ -5,7 +5,7 @@ const RestaurantCategory = (props)=>{
     const {data,showItems, setShowIndex} = props;
     const handleClick = ()=>{
         setShowIndex();
-    }
+    }  
     return(
         <div>
             <div className="w-6/12 shadow-lg mx-auto  p-4 my-4 bg-gray-50">{/* header */}
