@@ -5,6 +5,8 @@ import Shimmer from "./Shimmer";
 import restaurantData from "../utils/restaurants.json"
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import { useContext } from "react";
+import UserContext from "../utils/UserContext";
 
 const Body = ()=>{
     
@@ -49,6 +51,8 @@ const Body = ()=>{
 
     const RestaurantCardPromoted = withPromotedLabel(RestaurantCard)
 
+    const {loggedInUser, setUserName} = useContext(UserContext);
+
 
     return listOfRestaurants.length === 0 ? <Shimmer/> : (
         <div className="body">
@@ -69,6 +73,11 @@ const Body = ()=>{
                     const filteredList = listOfRestaurants.filter(res=> res.info.avgRating >= 4.5)
                     setFilteredRestaurants(filteredList)
                     }}>Top Rated Restaurants</button>
+                </div>
+
+                <div className="p-2 m-2">
+                    <label>User Name : </label>
+                    <input className="border border-black " value={loggedInUser} onChange={(event)=>{setUserName(event.target.value)}}/>
                 </div>
                 
 
