@@ -16,8 +16,8 @@ const Header = ()=>{
     // case-3 : if dependancy array is [btnName], then it will be called everytime the btnName updates/ changes.
     
 
-    useEffect(()=>{
-        console.log("useEffect called for header component")
+    useEffect(()=>{   
+        // 
     },[])
 
     const onlineStatus = useOnlineStatus();

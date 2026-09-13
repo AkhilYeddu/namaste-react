@@ -17,7 +17,7 @@ const Body = ()=>{
     
     
     // whenever state variable changes, react triggers a reconciliation cycle(re-renders the compoenent)
-    console.log("body component rendered")
+    
 
     
     useEffect(()=>{
@@ -38,7 +38,7 @@ const Body = ()=>{
        setFilteredRestaurants(fakeData)
     }
 
-    console.log(listOfRestaurants)
+    
     
     const onlineStatus = useOnlineStatus();
     if(!onlineStatus){
