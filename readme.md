@@ -65,4 +65,12 @@ Two types of import / export
 - Olio - The Wood Fired Pizzeria
 - Dilliwale Pahelvanjee'S Cholle Bhature
 
+# Redux ToolKit
+- install @reduxjs/toolkit and react-redux
+- build our store
+- connect our store to our app
+- create a Slice (cartSlice)
+- dispatch(action)
+- selector (subscribing to the store)
+
 
