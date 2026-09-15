@@ -23,8 +23,9 @@ const Header = ()=>{
 
     const onlineStatus = useOnlineStatus();
 
-    const cart = useSelector((store)=> store.cart.items)
-    console.log(cart);
+    // subscribing to the store using a selector
+    const cartItems = useSelector((store)=> store.cart.items)
+    
 
     return(
         <div className="flex bg-pink-100 justify-between p-2 shadow-xl sm:bg-yellow-100 lg:bg-green-100">
@@ -48,7 +49,9 @@ const Header = ()=>{
                     <li className="px-4">
                         <Link to="/contact"> Contact </Link>
                     </li>
-                    <li className="px-4">Cart</li>
+                    <li className="px-4 font-bold text-xl">
+                        <Link to="/cart">Cart - ({cartItems.length} items)</Link>
+                    </li>
                     <li className="px-4">
                         <Link to="/grocery"> Grocery </Link>
                     </li>
