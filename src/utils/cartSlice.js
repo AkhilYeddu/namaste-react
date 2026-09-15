@@ -11,15 +11,17 @@ const cartSlice = createSlice({
 
             // mutating the store
             // Redux ToolKit - we have to mutate the state
+            // Redux ToolKit uses immer BTS
             state.items.push(action.payload)
         },
         removeItems : (state, action)=>{
             state.items.pop()
-        },
+        }, //originalState = { items : ["pizza"] }
         clearCart : (state, action)=>{
-            console.log(current(state)) // redux gives us proxy object which we cant read, but by using current() by RTK, it is possible to read the state
-            state.items.length = 0; // []
-            console.log(current(state))
+            // RTK RULE : either mutate the current state, or return a new state
+            // state.items.length = 0; // []
+            return { items : [] }
+            
         }
     }
 });
