@@ -3,6 +3,7 @@ import { LOGO_URL } from "../utils/constants"
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import UserContext from "../utils/UserContext";
+import { useSelector } from "react-redux";
 
 const Header = ()=>{
     const [btnName, setBtnName] = useState("login"); //everytime this state variable changes, the header component is rendered again
@@ -21,6 +22,9 @@ const Header = ()=>{
     },[])
 
     const onlineStatus = useOnlineStatus();
+
+    const cart = useSelector((store)=> store.cart.items)
+    console.log(cart);
 
     return(
         <div className="flex bg-pink-100 justify-between p-2 shadow-xl sm:bg-yellow-100 lg:bg-green-100">
