@@ -6,7 +6,6 @@ const ItemList = (props)=>{
     const dispatch = useDispatch();
     const handleAddItem = (item)=>{
         // dispatching an action
-        console.log(item)
         dispatch(addItems(item));
     }
 

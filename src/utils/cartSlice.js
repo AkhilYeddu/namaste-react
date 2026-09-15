@@ -1,4 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice, current } from "@reduxjs/toolkit";
 
 const cartSlice = createSlice({
     name : "cart",
@@ -17,7 +17,9 @@ const cartSlice = createSlice({
             state.items.pop()
         },
         clearCart : (state, action)=>{
+            console.log(current(state)) // redux gives us proxy object which we cant read, but by using current() by RTK, it is possible to read the state
             state.items.length = 0; // []
+            console.log(current(state))
         }
     }
 });
