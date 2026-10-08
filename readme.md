@@ -73,4 +73,7 @@ Two types of import / export
 - dispatch(action)
 - selector (subscribing to the store)
 
-
+# Types of testing
+- Unit Testing
+- Integration Testing
+- End to End Testing, e2e testing
