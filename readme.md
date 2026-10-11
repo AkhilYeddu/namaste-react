@@ -85,3 +85,4 @@ Two types of import / export
 - Configured Babel
 - Modify parcel config to disable default babel transpilation
 - Configure Jest - npx jest --init
+- Install jsdom library
