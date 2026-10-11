@@ -77,3 +77,10 @@ Two types of import / export
 - Unit Testing
 - Integration Testing
 - End to End Testing, e2e testing
+
+# Setting up testing in our app
+- Installed React Testing Library
+- Installed Jest
+- Installed Babel dependencies
+- Configured Babel
+- Modify parcel config to disable default babel transpilation
