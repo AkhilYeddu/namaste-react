@@ -84,3 +84,4 @@ Two types of import / export
 - Installed Babel dependencies
 - Configured Babel
 - Modify parcel config to disable default babel transpilation
+- Configure Jest - npx jest --init
