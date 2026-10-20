@@ -1,6 +1,6 @@
 import { sum } from "../sum"
 
-test("Addition of 2 numbers is : ", ()=>{
+test("checking the addition of 2 numbers", ()=>{
     const result = sum(5,5);
 
     // Assertion
