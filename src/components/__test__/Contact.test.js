@@ -35,6 +35,7 @@ test("should find input - name in contactus component", () => {
     expect(inputName).toBeInTheDocument()
 
     })
+    
 
 test("should find 2 input boxes in contactus component", () => {
     
