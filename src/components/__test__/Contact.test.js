@@ -2,7 +2,10 @@ import { render, screen } from "@testing-library/react";
 import Contact from "../Contact";
 import "@testing-library/jest-dom";
 
-test("should load contactus component", () => {
+
+describe("Contact Us Page TestCases", ()=>{
+
+    test("should load contactus component", () => {
      
     render(<Contact></Contact>)
 
@@ -49,5 +52,7 @@ test("should find 2 input boxes in contactus component", () => {
    // Assertion
    expect(inputBoxes.length).toBe(2)
     })
+
+})
 
 
