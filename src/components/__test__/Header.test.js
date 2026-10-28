@@ -1,11 +1,11 @@
-const { render, screen } = require("@testing-library/react")
+const { render, screen, fireEvent } = require("@testing-library/react")
 import { BrowserRouter } from "react-router-dom"
 import Header from "../Header"
 import { Provider } from "react-redux"
 import appStore from "../../utils/appStore"
 import "@testing-library/jest-dom"
 
-it("should render header component with a login button", ()=>{
+it("should change login button to logout button on click", ()=>{
     render(
         <BrowserRouter>
         <Provider store={appStore}>
@@ -16,7 +16,11 @@ it("should render header component with a login button", ()=>{
 
     const loginButton = screen.getByRole("button", {name : "login"});
 
-    expect(loginButton).toBeInTheDocument()
+    fireEvent.click(loginButton)
+
+    const logoutButton = screen.getByRole("button", {name : "logout"});
+
+    expect(logoutButton).toBeInTheDocument()
 
 })
 
