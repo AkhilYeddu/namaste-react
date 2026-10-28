@@ -5,7 +5,7 @@ import "@testing-library/jest-dom";
 
 describe("Contact Us Page TestCases", ()=>{
 
-    test("should load contactus component", () => {
+test("should load contactus component", () => {
      
     render(<Contact></Contact>)
 
@@ -28,7 +28,7 @@ test("should find submit button in contactus component", () => {
 
     })
 
-test("should find input - name in contactus component", () => {
+it("should find input - name in contactus component", () => {
      
     render(<Contact></Contact>)
 
@@ -40,7 +40,7 @@ test("should find input - name in contactus component", () => {
     })
     
 
-test("should find 2 input boxes in contactus component", () => {
+it("should find 2 input boxes in contactus component", () => {
     
     // Rendering
    render(<Contact></Contact>)
