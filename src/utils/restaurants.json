@@ -1,3 +1,4 @@
+
 {
   "statusCode": 0,
   "data": {
@@ -16,17 +17,12 @@
                     "info": {
                       "id": "1001",
                       "name": "Pizza Hut",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1001/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/6068717/pexels-photo-6068717.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "Indiranagar",
-                      "cuisines": [
-                        "Pizza",
-                        "Italian"
-                      ],
+                      "cuisines": ["Pizza", "Italian"],
                       "avgRating": 4.1,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 25
-                      },
+                      "sla": { "deliveryTime": 25 },
                       "promoted": true
                     }
                   },
@@ -34,16 +30,12 @@
                     "info": {
                       "id": "1002",
                       "name": "Domino's Pizza",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1002/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/9685264/pexels-photo-9685264.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "Whitefield",
-                      "cuisines": [
-                        "Pizza"
-                      ],
+                      "cuisines": ["Pizza"],
                       "avgRating": 4.3,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 30
-                      },
+                      "sla": { "deliveryTime": 30 },
                       "promoted": false
                     }
                   },
@@ -51,17 +43,12 @@
                     "info": {
                       "id": "1003",
                       "name": "KFC",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1001/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/9872916/pexels-photo-9872916.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "Marathahalli",
-                      "cuisines": [
-                        "Chicken",
-                        "Burgers"
-                      ],
+                      "cuisines": ["Chicken", "Burgers"],
                       "avgRating": 4.4,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 30
-                      },
+                      "sla": { "deliveryTime": 30 },
                       "promoted": false
                     }
                   },
@@ -69,16 +56,12 @@
                     "info": {
                       "id": "1004",
                       "name": "Burger King",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1004/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/36007382/pexels-photo-36007382.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "HSR Layout",
-                      "cuisines": [
-                        "Burgers"
-                      ],
+                      "cuisines": ["Burgers"],
                       "avgRating": 4.2,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 31
-                      },
+                      "sla": { "deliveryTime": 31 },
                       "promoted": true
                     }
                   },
@@ -86,16 +69,12 @@
                     "info": {
                       "id": "1005",
                       "name": "McDonald's",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1005/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/15010285/pexels-photo-15010285.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "Koramangala",
-                      "cuisines": [
-                        "Fast Food"
-                      ],
+                      "cuisines": ["Fast Food"],
                       "avgRating": 4.6,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 35
-                      },
+                      "sla": { "deliveryTime": 35 },
                       "promoted": false
                     }
                   },
@@ -103,17 +82,12 @@
                     "info": {
                       "id": "1006",
                       "name": "Truffles",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1006/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/12091671/pexels-photo-12091671.png?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "Koramangala",
-                      "cuisines": [
-                        "Cafe",
-                        "Burgers"
-                      ],
+                      "cuisines": ["Cafe", "Burgers"],
                       "avgRating": 4.2,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 23
-                      },
+                      "sla": { "deliveryTime": 23 },
                       "promoted": false
                     }
                   },
@@ -121,16 +95,12 @@
                     "info": {
                       "id": "1007",
                       "name": "Meghana Foods",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1007/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/16020573/pexels-photo-16020573.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "BTM Layout",
-                      "cuisines": [
-                        "Biryani"
-                      ],
+                      "cuisines": ["Biryani"],
                       "avgRating": 4.2,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 37
-                      },
+                      "sla": { "deliveryTime": 37 },
                       "promoted": true
                     }
                   },
@@ -138,16 +108,12 @@
                     "info": {
                       "id": "1008",
                       "name": "Chinese Wok",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1008/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/8983416/pexels-photo-8983416.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "Bellandur",
-                      "cuisines": [
-                        "Chinese"
-                      ],
+                      "cuisines": ["Chinese"],
                       "avgRating": 4.7,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 36
-                      },
+                      "sla": { "deliveryTime": 36 },
                       "promoted": false
                     }
                   },
@@ -155,16 +121,12 @@
                     "info": {
                       "id": "1009",
                       "name": "Empire Restaurant",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1009/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/33800905/pexels-photo-33800905.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "MG Road",
-                      "cuisines": [
-                        "North Indian"
-                      ],
+                      "cuisines": ["North Indian"],
                       "avgRating": 4.4,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 30
-                      },
+                      "sla": { "deliveryTime": 30 },
                       "promoted": false
                     }
                   },
@@ -172,16 +134,12 @@
                     "info": {
                       "id": "1010",
                       "name": "Subway",
-                      "cloudinaryImageId": "https://picsum.photos/seed/1010/600/400",
+                      "cloudinaryImageId": "https://images.pexels.com/photos/19202829/pexels-photo-19202829.jpeg?auto=compress&cs=tinysrgb&w=400&q=70",
                       "locality": "Brookefield",
-                      "cuisines": [
-                        "Sandwiches"
-                      ],
+                      "cuisines": ["Sandwiches"],
                       "avgRating": 4.6,
                       "costForTwo": "₹300 for two",
-                      "sla": {
-                        "deliveryTime": 33
-                      },
+                      "sla": { "deliveryTime": 33 },
                       "promoted": false
                     }
                   }

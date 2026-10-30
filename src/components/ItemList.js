@@ -42,7 +42,7 @@ const ItemList = (props)=>{
                         <div className="absolute">
                             <button className="cursor-pointer p-2 font-medium mx-15 my-36 text-white bg-green-700 shadow-lg rounded-lg hover:bg-white hover:text-green-700" onClick={() => handleAddItem(item)}>Add</button>        
                         </div>
-                        <img className="w-full" src = {item.card.info.imageId}></img>
+                        <img className="w-full h-42 rounded-md object-cover" src = {item.card.info.imageId}></img>
                         </div>
                     </div>
 

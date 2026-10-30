@@ -41,7 +41,7 @@
                                   "name": "Margherita",
                                   "description": "Delicious Margherita.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1001_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/14590497/pexels-photo-14590497.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -53,7 +53,7 @@
                                   "name": "Farmhouse",
                                   "description": "A classic vegetarian pizza topped with fresh vegetables and generous amounts of melted cheese. It's a hearty combination of familiar flavors baked on a golden pizza base.",
                                   "price": 34900,
-                                  "imageId": "https://picsum.photos/seed/1001_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/35731444/pexels-photo-35731444.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -65,7 +65,7 @@
                                   "name": "Veggie Supreme",
                                   "description": "Delicious Veggie Supreme.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1001_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/5903095/pexels-photo-5903095.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -77,7 +77,7 @@
                                   "name": "Chicken Supreme",
                                   "description": "Delicious Chicken Supreme.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1001_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/33592992/pexels-photo-33592992.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -89,7 +89,7 @@
                                   "name": "Garlic Bread",
                                   "description": "Delicious Garlic Bread.",
                                   "price": 19900,
-                                  "imageId": "https://picsum.photos/seed/1001_5/500/500",
+                                  "imageId": "https://images.pexels.com/photos/10067617/pexels-photo-10067617.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -101,7 +101,7 @@
                                   "name": "Cheesy Garlic Bread",
                                   "description": "Delicious Cheesy Garlic Bread.",
                                   "price": 34900,
-                                  "imageId": "https://picsum.photos/seed/1001_6/500/500",
+                                  "imageId": "https://images.pexels.com/photos/9951852/pexels-photo-9951852.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -113,7 +113,7 @@
                                   "name": "Tandoori Paneer Pizza",
                                   "description": "Delicious Tandoori Paneer Pizza.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1001_7/500/500",
+                                  "imageId": "https://images.pexels.com/photos/11974635/pexels-photo-11974635.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -125,7 +125,7 @@
                                   "name": "Chocolate Lava Cake",
                                   "description": "A warm chocolate dessert with a soft cake exterior and rich, gooey chocolate center. It's an indulgent treat for finishing a meal on a sweet note.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1001_8/500/500",
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -137,7 +137,7 @@
                                   "name": "Pepsi",
                                   "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1001_9/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -149,7 +149,7 @@
                                   "name": "Pasta Alfredo",
                                   "description": "Delicious Pasta Alfredo.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1001_10/500/500",
+                                  "imageId": "https://images.pexels.com/photos/37336686/pexels-photo-37336686.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -170,7 +170,7 @@
                                   "name": "Veggie Lover's",
                                   "description": "A delicious vegetarian pizza loaded with fresh vegetables and plenty of melted cheese. A colorful and satisfying choice for anyone who loves classic veggie toppings.",
                                   "price": 32900,
-                                  "imageId": "https://picsum.photos/seed/1001_2_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/11975887/pexels-photo-11975887.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -182,7 +182,7 @@
                                   "name": "Chicken Pepperoni",
                                   "description": "A cheesy pizza topped with flavorful chicken pepperoni and a generous layer of melted cheese. It combines a savory, smoky topping with a soft, golden pizza base.",
                                   "price": 39900,
-                                  "imageId": "https://picsum.photos/seed/1001_2_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/7813574/pexels-photo-7813574.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -194,7 +194,7 @@
                                   "name": "Cheese & Corn",
                                   "description": "A comforting combination of sweet corn and creamy melted cheese on a freshly baked pizza. Mild, cheesy, and easy to enjoy with every bite.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1001_2_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/31450854/pexels-photo-31450854.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -206,7 +206,7 @@
                                   "name": "Mexican Fiesta",
                                   "description": "A zesty pizza topped with Mexican-inspired vegetables, cheese, and flavorful seasoning. It brings together a slightly spicy kick with the richness of melted cheese.",
                                   "price": 34900,
-                                  "imageId": "https://picsum.photos/seed/1001_2_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/9394680/pexels-photo-9394680.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -227,7 +227,7 @@
                                   "name": "Garlic Breadsticks",
                                   "description": "Soft, golden breadsticks seasoned with aromatic garlic and herbs. They're crisp on the outside, tender inside, and perfect alongside your pizza.",
                                   "price": 16900,
-                                  "imageId": "https://picsum.photos/seed/1001_3_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/15362133/pexels-photo-15362133.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -239,7 +239,7 @@
                                   "name": "Cheesy Dip",
                                   "description": "A smooth and creamy cheese dip with a rich savory flavor. Perfect for dipping fries, nuggets, and other crispy sides.",
                                   "price": 9900,
-                                  "imageId": "https://picsum.photos/seed/1001_3_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/28559513/pexels-photo-28559513.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -251,7 +251,7 @@
                                   "name": "Loaded Cheese Fries",
                                   "description": "Crispy golden fries covered with a generous layer of melted cheese. A rich and indulgent side that's perfect for sharing or enjoying on its own.",
                                   "price": 22900,
-                                  "imageId": "https://picsum.photos/seed/1001_3_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/29285461/pexels-photo-29285461.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -263,7 +263,7 @@
                                   "name": "Chicken Wings",
                                   "description": "Juicy chicken wings seasoned with flavorful spices and cooked until tender. Their crispy outside and savory flavor make them a great snack or side.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1001_3_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8831847/pexels-photo-8831847.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -284,7 +284,7 @@
                                   "name": "Choco Volcano Cake",
                                   "description": "A warm, soft chocolate cake with a rich and gooey chocolate-filled center. Best enjoyed warm for a decadent chocolate dessert experience.",
                                   "price": 12900,
-                                  "imageId": "https://picsum.photos/seed/1001_4_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/36183206/pexels-photo-36183206.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -296,7 +296,7 @@
                                   "name": "Mousse Cake",
                                   "description": "A light and creamy chocolate mousse cake with a smooth, delicate texture. Its rich chocolate flavor makes it a satisfying way to finish your meal.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1001_4_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/37574428/pexels-photo-37574428.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -308,7 +308,7 @@
                                   "name": "Brownie",
                                   "description": "A rich and fudgy chocolate brownie with a soft, moist center. A simple but indulgent dessert for serious chocolate lovers.",
                                   "price": 13900,
-                                  "imageId": "https://picsum.photos/seed/1001_4_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/33312981/pexels-photo-33312981.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -320,7 +320,7 @@
                                   "name": "Ice Cream",
                                   "description": "A creamy and refreshing classic ice cream dessert served chilled. Its smooth texture and sweet flavor make it an easy finish to any meal.",
                                   "price": 9900,
-                                  "imageId": "https://picsum.photos/seed/1001_4_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/13914948/pexels-photo-13914948.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
