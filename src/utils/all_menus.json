@@ -227,7 +227,7 @@
                                   "name": "Garlic Breadsticks",
                                   "description": "Soft, golden breadsticks seasoned with aromatic garlic and herbs. They're crisp on the outside, tender inside, and perfect alongside your pizza.",
                                   "price": 16900,
-                                  "imageId": "https://images.pexels.com/photos/15362133/pexels-photo-15362133.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "imageId": "https://images.pexels.com/photos/7159284/pexels-photo-7159284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -377,7 +377,7 @@
                                   "name": "Peppy Paneer",
                                   "description": "A flavorful pizza featuring spicy paneer, crunchy vegetables, and melted cheese. The paneer and bold seasoning give every slice a satisfying kick.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1002_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/11974635/pexels-photo-11974635.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -389,7 +389,7 @@
                                   "name": "Chicken Dominator",
                                   "description": "A hearty chicken-loaded pizza packed with flavorful chicken toppings and melted cheese. It's a filling choice for anyone looking for a rich and meaty pizza.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1002_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/33592992/pexels-photo-33592992.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -401,7 +401,7 @@
                                   "name": "Veg Extravaganza",
                                   "description": "Delicious Veg Extravaganza.",
                                   "price": 19900,
-                                  "imageId": "https://picsum.photos/seed/1002_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/5903095/pexels-photo-5903095.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -413,7 +413,7 @@
                                   "name": "Garlic Breadsticks",
                                   "description": "Soft, golden breadsticks seasoned with aromatic garlic and herbs. They're crisp on the outside, tender inside, and perfect alongside your pizza.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1002_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/7159284/pexels-photo-7159284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -425,7 +425,7 @@
                                   "name": "Choco Lava",
                                   "description": "Delicious Choco Lava.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1002_5/500/500",
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -437,7 +437,7 @@
                                   "name": "Coke",
                                   "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1002_6/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -449,7 +449,7 @@
                                   "name": "Paneer Zingy",
                                   "description": "Delicious Paneer Zingy.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1002_7/500/500",
+                                  "imageId": "https://images.pexels.com/photos/3928854/pexels-photo-3928854.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -461,7 +461,7 @@
                                   "name": "Corn Pizza",
                                   "description": "Delicious Corn Pizza.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1002_8/500/500",
+                                  "imageId": "https://images.pexels.com/photos/31450854/pexels-photo-31450854.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -473,7 +473,7 @@
                                   "name": "Stuffed Garlic Bread",
                                   "description": "Golden-baked garlic bread filled with a delicious cheesy stuffing. Soft, buttery, and flavorful, it makes a perfect accompaniment to pizza.",
                                   "price": 34900,
-                                  "imageId": "https://picsum.photos/seed/1002_9/500/500",
+                                  "imageId": "https://images.pexels.com/photos/6170675/pexels-photo-6170675.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -485,7 +485,7 @@
                                   "name": "Sprite",
                                   "description": "Delicious Sprite.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1002_10/500/500",
+                                  "imageId": "https://images.pexels.com/photos/9996446/pexels-photo-9996446.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -518,7 +518,7 @@
                                   "name": "Peppy Paneer",
                                   "description": "A flavorful pizza featuring spicy paneer, crunchy vegetables, and melted cheese. The paneer and bold seasoning give every slice a satisfying kick.",
                                   "price": 35900,
-                                  "imageId": "https://picsum.photos/seed/1002_2_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/11974635/pexels-photo-11974635.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -530,7 +530,7 @@
                                   "name": "Chicken Dominator",
                                   "description": "A hearty chicken-loaded pizza packed with flavorful chicken toppings and melted cheese. It's a filling choice for anyone looking for a rich and meaty pizza.",
                                   "price": 39900,
-                                  "imageId": "https://picsum.photos/seed/1002_2_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/33592992/pexels-photo-33592992.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -563,7 +563,7 @@
                                   "name": "Garlic Breadsticks",
                                   "description": "Soft, golden breadsticks seasoned with aromatic garlic and herbs. They're crisp on the outside, tender inside, and perfect alongside your pizza.",
                                   "price": 15900,
-                                  "imageId": "https://picsum.photos/seed/1002_3_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/7159284/pexels-photo-7159284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -575,7 +575,7 @@
                                   "name": "Stuffed Garlic Bread",
                                   "description": "Golden-baked garlic bread filled with a delicious cheesy stuffing. Soft, buttery, and flavorful, it makes a perfect accompaniment to pizza.",
                                   "price": 18900,
-                                  "imageId": "https://picsum.photos/seed/1002_3_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/6170675/pexels-photo-6170675.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -1110,7 +1110,7 @@
                                   "name": "Coke",
                                   "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1004_6/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -1317,7 +1317,7 @@
                                   "name": "Coke",
                                   "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
                                   "price": 6900,
-                                  "imageId": "https://picsum.photos/seed/1004_4_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -1446,7 +1446,7 @@
                                   "name": "Coke",
                                   "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1005_6/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -1653,7 +1653,7 @@
                                   "name": "Coke",
                                   "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
                                   "price": 6900,
-                                  "imageId": "https://picsum.photos/seed/1005_4_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -3151,7 +3151,7 @@
                                   "name": "Coke",
                                   "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1010_8/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -3334,7 +3334,7 @@
                                   "name": "Coke",
                                   "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
                                   "price": 6900,
-                                  "imageId": "https://picsum.photos/seed/1010_4_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
