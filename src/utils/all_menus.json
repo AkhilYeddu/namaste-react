@@ -137,7 +137,7 @@
                                   "name": "Pepsi",
                                   "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
                                   "price": 14900,
-                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -263,7 +263,7 @@
                                   "name": "Chicken Wings",
                                   "description": "Juicy chicken wings seasoned with flavorful spices and cooked until tender. Their crispy outside and savory flavor make them a great snack or side.",
                                   "price": 29900,
-                                  "imageId": "https://images.pexels.com/photos/8831847/pexels-photo-8831847.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "imageId": "https://images.pexels.com/photos/28674546/pexels-photo-28674546.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -389,7 +389,7 @@
                                   "name": "Chicken Dominator",
                                   "description": "A hearty chicken-loaded pizza packed with flavorful chicken toppings and melted cheese. It's a filling choice for anyone looking for a rich and meaty pizza.",
                                   "price": 14900,
-                                  "imageId": "https://images.pexels.com/photos/33592992/pexels-photo-33592992.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "imageId": "https://images.pexels.com/photos/7813572/pexels-photo-7813572.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -506,7 +506,7 @@
                                   "name": "Farmhouse",
                                   "description": "A classic vegetarian pizza topped with fresh vegetables and generous amounts of melted cheese. It's a hearty combination of familiar flavors baked on a golden pizza base.",
                                   "price": 34900,
-                                  "imageId": "https://picsum.photos/seed/1002_2_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/35731444/pexels-photo-35731444.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -530,7 +530,7 @@
                                   "name": "Chicken Dominator",
                                   "description": "A hearty chicken-loaded pizza packed with flavorful chicken toppings and melted cheese. It's a filling choice for anyone looking for a rich and meaty pizza.",
                                   "price": 39900,
-                                  "imageId": "https://images.pexels.com/photos/33592992/pexels-photo-33592992.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "imageId": "https://images.pexels.com/photos/7813572/pexels-photo-7813572.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -542,7 +542,7 @@
                                   "name": "Mexican Green Wave",
                                   "description": "A zesty vegetarian pizza topped with crunchy vegetables, cheese, and Mexican-inspired seasoning. It delivers a lively mix of fresh, spicy, and cheesy flavors.",
                                   "price": 32900,
-                                  "imageId": "https://picsum.photos/seed/1002_2_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/5175513/pexels-photo-5175513.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -587,7 +587,7 @@
                                   "name": "Chicken Wings",
                                   "description": "Juicy chicken wings seasoned with flavorful spices and cooked until tender. Their crispy outside and savory flavor make them a great snack or side.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1002_3_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/28674546/pexels-photo-28674546.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -599,7 +599,7 @@
                                   "name": "Potato Cheese Shots",
                                   "description": "Crispy golden potato bites with a warm, cheesy center. They're small, crunchy, and packed with comforting savory flavors.",
                                   "price": 17900,
-                                  "imageId": "https://picsum.photos/seed/1002_3_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/34692571/pexels-photo-34692571.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -620,7 +620,7 @@
                                   "name": "Choco Lava Cake",
                                   "description": "A soft chocolate cake hiding a warm, molten chocolate center inside. Serve it warm for a rich and gooey dessert that's hard to resist.",
                                   "price": 10900,
-                                  "imageId": "https://picsum.photos/seed/1002_4_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -632,7 +632,7 @@
                                   "name": "Butterscotch Mousse Cake",
                                   "description": "A light and creamy mousse cake with a sweet butterscotch flavor. Its smooth texture and caramel-like sweetness make it a delightful dessert.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1002_4_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/28167316/pexels-photo-28167316.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -644,7 +644,7 @@
                                   "name": "Pepsi",
                                   "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
                                   "price": 6900,
-                                  "imageId": "https://picsum.photos/seed/1002_4_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -656,7 +656,7 @@
                                   "name": "Mirinda",
                                   "description": "A bright and refreshing orange-flavored fizzy drink served chilled. Its sweet citrus flavor makes it a refreshing pairing with a savory meal.",
                                   "price": 6900,
-                                  "imageId": "https://picsum.photos/seed/1002_4_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/11659578/pexels-photo-11659578.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -714,7 +714,7 @@
                                   "name": "Zinger Burger",
                                   "description": "A crispy, spicy chicken fillet topped with fresh vegetables and creamy sauce in a soft bun. The crunchy chicken and bold seasoning make this a flavorful burger choice.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1003_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/5474836/pexels-photo-5474836.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -726,7 +726,7 @@
                                   "name": "Hot Wings",
                                   "description": "Delicious Hot Wings.",
                                   "price": 24900,
-                                  "imageId": "https://picsum.photos/seed/1003_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/37538485/pexels-photo-37538485.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -738,7 +738,7 @@
                                   "name": "Chicken Bucket",
                                   "description": "A generous bucket filled with crispy fried chicken pieces, seasoned for a bold and savory flavor. Perfect for sharing with friends or family.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1003_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/33037756/pexels-photo-33037756.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -750,7 +750,7 @@
                                   "name": "Popcorn Chicken",
                                   "description": "Bite-sized pieces of tender chicken covered in a crunchy, flavorful coating. Great for snacking or sharing as a crispy side.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1003_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/12339072/pexels-photo-12339072.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -762,7 +762,7 @@
                                   "name": "French Fries",
                                   "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
                                   "price": 34900,
-                                  "imageId": "https://picsum.photos/seed/1003_5/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -774,7 +774,7 @@
                                   "name": "Chicken Strips",
                                   "description": "Tender strips of chicken coated in a crispy, seasoned crust. They're easy to enjoy and pair perfectly with your favorite dipping sauce.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1003_6/500/500",
+                                  "imageId": "https://images.pexels.com/photos/27497769/pexels-photo-27497769.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -786,7 +786,7 @@
                                   "name": "Pepsi",
                                   "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
                                   "price": 34900,
-                                  "imageId": "https://picsum.photos/seed/1003_7/500/500",
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -798,7 +798,7 @@
                                   "name": "Krushers",
                                   "description": "A thick and creamy chilled beverage blended with delicious flavors. Smooth, refreshing, and ideal when you want something sweet and cool.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1003_8/500/500",
+                                  "imageId": "https://images.pexels.com/photos/20205944/pexels-photo-20205944.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -810,7 +810,7 @@
                                   "name": "Rice Bowl",
                                   "description": "Delicious Rice Bowl.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1003_9/500/500",
+                                  "imageId": "https://images.pexels.com/photos/12916874/pexels-photo-12916874.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -822,7 +822,7 @@
                                   "name": "Veg Burger",
                                   "description": "Delicious Veg Burger.",
                                   "price": 14900,
-                                  "imageId": "https://picsum.photos/seed/1003_10/500/500",
+                                  "imageId": "https://images.pexels.com/photos/3607284/pexels-photo-3607284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -843,7 +843,7 @@
                                   "name": "Zinger Burger",
                                   "description": "A crispy, spicy chicken fillet topped with fresh vegetables and creamy sauce in a soft bun. The crunchy chicken and bold seasoning make this a flavorful burger choice.",
                                   "price": 21900,
-                                  "imageId": "https://picsum.photos/seed/1003_2_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/5474836/pexels-photo-5474836.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -855,7 +855,7 @@
                                   "name": "Classic Chicken Burger",
                                   "description": "A crispy chicken fillet layered with fresh toppings and creamy sauce inside a soft burger bun. It's a simple, satisfying combination of crunch, creaminess, and savory flavor.",
                                   "price": 19900,
-                                  "imageId": "https://picsum.photos/seed/1003_2_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/19737927/pexels-photo-19737927.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -867,7 +867,7 @@
                                   "name": "Chicken Roll",
                                   "description": "Tender seasoned chicken wrapped with fresh vegetables and flavorful sauces. Convenient to eat and packed with savory flavors in every bite.",
                                   "price": 17900,
-                                  "imageId": "https://picsum.photos/seed/1003_2_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/6416559/pexels-photo-6416559.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -879,7 +879,7 @@
                                   "name": "Chicken Longer",
                                   "description": "A crispy chicken patty served in a long, soft bun with creamy sauce. Its crunchy chicken and soft bread create a satisfying texture combination.",
                                   "price": 15900,
-                                  "imageId": "https://picsum.photos/seed/1003_2_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/9207056/pexels-photo-9207056.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -900,7 +900,7 @@
                                   "name": "Chicken Bucket",
                                   "description": "A generous bucket filled with crispy fried chicken pieces, seasoned for a bold and savory flavor. Perfect for sharing with friends or family.",
                                   "price": 39900,
-                                  "imageId": "https://picsum.photos/seed/1003_3_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/33037756/pexels-photo-33037756.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -912,7 +912,7 @@
                                   "name": "Hot & Crispy Chicken",
                                   "description": "Crispy fried chicken with a crunchy, seasoned coating and juicy, tender meat inside. A classic choice for anyone craving flavorful fried chicken.",
                                   "price": 25900,
-                                  "imageId": "https://picsum.photos/seed/1003_3_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8463472/pexels-photo-8463472.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -924,7 +924,7 @@
                                   "name": "Chicken Strips",
                                   "description": "Tender strips of chicken coated in a crispy, seasoned crust. They're easy to enjoy and pair perfectly with your favorite dipping sauce.",
                                   "price": 22900,
-                                  "imageId": "https://picsum.photos/seed/1003_3_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/27497769/pexels-photo-27497769.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -936,7 +936,7 @@
                                   "name": "Popcorn Chicken",
                                   "description": "Bite-sized pieces of tender chicken covered in a crunchy, flavorful coating. Great for snacking or sharing as a crispy side.",
                                   "price": 19900,
-                                  "imageId": "https://picsum.photos/seed/1003_3_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/12339072/pexels-photo-12339072.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 0
                                 }
                               }
@@ -957,7 +957,7 @@
                                   "name": "Pepsi",
                                   "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
                                   "price": 6900,
-                                  "imageId": "https://picsum.photos/seed/1003_4_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -969,7 +969,7 @@
                                   "name": "7UP",
                                   "description": "A chilled lemon-lime soft drink with a crisp and refreshing taste. Its light citrus flavor makes it a refreshing companion to spicy and savory food.",
                                   "price": 6900,
-                                  "imageId": "https://picsum.photos/seed/1003_4_2/500/500",
+                                  "imageId": "https://images.pexels.com/photos/9996446/pexels-photo-9996446.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -981,7 +981,7 @@
                                   "name": "Chocolate Lava Cake",
                                   "description": "A warm chocolate dessert with a soft cake exterior and rich, gooey chocolate center. It's an indulgent treat for finishing a meal on a sweet note.",
                                   "price": 12900,
-                                  "imageId": "https://picsum.photos/seed/1003_4_3/500/500",
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -993,7 +993,7 @@
                                   "name": "Krushers",
                                   "description": "A thick and creamy chilled beverage blended with delicious flavors. Smooth, refreshing, and ideal when you want something sweet and cool.",
                                   "price": 15900,
-                                  "imageId": "https://picsum.photos/seed/1003_4_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/20205944/pexels-photo-20205944.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -1236,7 +1236,7 @@
                                   "name": "French Fries",
                                   "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
                                   "price": 12900,
-                                  "imageId": "https://picsum.photos/seed/1004_3_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -1572,7 +1572,7 @@
                                   "name": "French Fries",
                                   "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
                                   "price": 11900,
-                                  "imageId": "https://picsum.photos/seed/1005_3_1/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -1945,7 +1945,7 @@
                                   "name": "French Fries",
                                   "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
                                   "price": 17900,
-                                  "imageId": "https://picsum.photos/seed/1006_3_4/500/500",
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
@@ -2491,7 +2491,7 @@
                                   "name": "Pepsi",
                                   "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
                                   "price": 29900,
-                                  "imageId": "https://picsum.photos/seed/1008_9/500/500",
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
                                   "isVeg": 1
                                 }
                               }
