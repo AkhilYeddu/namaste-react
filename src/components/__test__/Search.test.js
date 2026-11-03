@@ -26,6 +26,9 @@ it("should render body component with search button", async()=>{
         )
 )
 
+const cardsBeforeSearch =   screen.getAllByTestId("resCard")
+expect(cardsBeforeSearch.length).toBe(10)
+
 const searchBtn = screen.getByRole("button", {name : "Search"})
 const searchInput = screen.getByTestId("searchInput")
 
@@ -33,10 +36,10 @@ fireEvent.change(searchInput, { target : { value : "pizza"}}) // mimicking the e
 fireEvent.click(searchBtn)
 
 // screen should load 2 cards with pizza
-const cards =   screen.getAllByTestId("resCard")
+const cardsAfterSearch =   screen.getAllByTestId("resCard")
 
-console.log(cards.length)
-expect(cards.length).toBe(2)
+
+expect(cardsAfterSearch.length).toBe(2)
 
     
 
