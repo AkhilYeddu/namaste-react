@@ -1,4 +1,4 @@
-import {  render } from "@testing-library/react"
+import {  render, screen } from "@testing-library/react"
 import Body from "../Body"
 import { data } from "@remix-run/router"
 import MOCK_DATA from "../mocks/mockResList.json"
@@ -25,6 +25,10 @@ it("should render body component with search button", async()=>{
             </BrowserRouter>
         )
 )
+
+const searchBtn = screen.getByRole("button", {name : "Search"})
+
+expect(searchBtn).toBeInTheDocument()
     
 
 
