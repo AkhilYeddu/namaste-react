@@ -16,7 +16,7 @@ global.fetch = jest.fn(
     }
 )
 
-it("should seach res list for burger", async()=>{
+it("should seach res list for pizza text input", async()=>{
 
     await act(async()=>
         render(
