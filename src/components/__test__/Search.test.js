@@ -1,8 +1,10 @@
-import { render } from "@testing-library/react"
+import {  render } from "@testing-library/react"
 import Body from "../Body"
 import { data } from "@remix-run/router"
 import MOCK_DATA from "../mocks/mockResList.json"
 import { BrowserRouter } from "react-router-dom"
+import { act } from "react"
+
 
 global.fetch = jest.fn(
     ()=>{

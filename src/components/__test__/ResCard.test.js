@@ -7,7 +7,7 @@ it("should render RestaurantCard component with props data", ()=>{
     
     render(<RestaurantCard resData = {MOCK_DATA}></RestaurantCard>)
 
-    const name = screen.getByText("Pizza Huttt")
+    const name = screen.getByText("Pizza Hut")
 
     expect(name).toBeInTheDocument()
 
