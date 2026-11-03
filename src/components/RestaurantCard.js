@@ -6,7 +6,7 @@ const RestaurantCard = (props)=>{
     const{ resData } = props; // resData is inside props.
     const {name, cuisines, avgRating, costForTwo,costForTwoString, sla, cloudinaryImageId} = resData?.info //optional chaining
     return(
-        <div className="p-4 bg-gray-200 shadow-xl border border-gray-200 hover:bg-gray-400 rounded-lg">
+        <div data-testid = "resCard" className="p-4 bg-gray-200 shadow-xl border border-gray-200 hover:bg-gray-400 rounded-lg">
             <img className="w-64 h-40 object-cover rounded-lg my-4" src={cloudinaryImageId}>
             </img>
             <h3 className="font-bold">{name}</h3>

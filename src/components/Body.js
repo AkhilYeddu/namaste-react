@@ -59,7 +59,7 @@ const Body = ()=>{
         <div className="body">
             <div className="flex items-center">
                 <div className="search m-4 p-4">
-                    <input type="text" className="border border-solid border-black" value={searchText} onChange={(e)=>{setSearchText(e.target.value)}}></input>
+                    <input type="text" data-testid = "searchInput" className="border border-solid border-black" value={searchText} onChange={(e)=>{setSearchText(e.target.value)}}></input>
                     <button className="m-4 px-4 py-2 bg-green-100 rounded-lg" onClick={ () =>{
                         // filter the restaurants and update the UI
                         const filteredRestaurant = listOfRestaurants.filter((res)=> res.info.name.toLowerCase().includes(searchText.toLowerCase()))
