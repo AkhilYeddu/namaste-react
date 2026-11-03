@@ -16,7 +16,7 @@ global.fetch = jest.fn(
     }
 )
 
-it("should render body component with search button", async()=>{
+it("should seach res list for burger", async()=>{
 
     await act(async()=>
         render(
