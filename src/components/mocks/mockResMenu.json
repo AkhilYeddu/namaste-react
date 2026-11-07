@@ -1,0 +1,3367 @@
+{
+  "menus": {
+    "1001": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1001",
+                  "name": "Pizza Hut",
+                  "cuisines": [
+                    "Pizza",
+                    "Italian"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100101,
+                                  "name": "Margherita",
+                                  "description": "Delicious Margherita.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/14590497/pexels-photo-14590497.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100102,
+                                  "name": "Farmhouse",
+                                  "description": "A classic vegetarian pizza topped with fresh vegetables and generous amounts of melted cheese. It's a hearty combination of familiar flavors baked on a golden pizza base.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/35731444/pexels-photo-35731444.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100103,
+                                  "name": "Veggie Supreme",
+                                  "description": "Delicious Veggie Supreme.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/5903095/pexels-photo-5903095.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100104,
+                                  "name": "Chicken Supreme",
+                                  "description": "Delicious Chicken Supreme.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/33592992/pexels-photo-33592992.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100105,
+                                  "name": "Garlic Bread",
+                                  "description": "Delicious Garlic Bread.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/10067617/pexels-photo-10067617.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100106,
+                                  "name": "Cheesy Garlic Bread",
+                                  "description": "Delicious Cheesy Garlic Bread.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/9951852/pexels-photo-9951852.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100107,
+                                  "name": "Tandoori Paneer Pizza",
+                                  "description": "Delicious Tandoori Paneer Pizza.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/11974635/pexels-photo-11974635.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100108,
+                                  "name": "Chocolate Lava Cake",
+                                  "description": "A warm chocolate dessert with a soft cake exterior and rich, gooey chocolate center. It's an indulgent treat for finishing a meal on a sweet note.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100109,
+                                  "name": "Pepsi",
+                                  "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100110,
+                                  "name": "Pasta Alfredo",
+                                  "description": "Delicious Pasta Alfredo.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/37336686/pexels-photo-37336686.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Pizzas",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001021,
+                                  "name": "Veggie Lover's",
+                                  "description": "A delicious vegetarian pizza loaded with fresh vegetables and plenty of melted cheese. A colorful and satisfying choice for anyone who loves classic veggie toppings.",
+                                  "price": 32900,
+                                  "imageId": "https://images.pexels.com/photos/11975887/pexels-photo-11975887.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001022,
+                                  "name": "Chicken Pepperoni",
+                                  "description": "A cheesy pizza topped with flavorful chicken pepperoni and a generous layer of melted cheese. It combines a savory, smoky topping with a soft, golden pizza base.",
+                                  "price": 39900,
+                                  "imageId": "https://images.pexels.com/photos/7813574/pexels-photo-7813574.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001023,
+                                  "name": "Cheese & Corn",
+                                  "description": "A comforting combination of sweet corn and creamy melted cheese on a freshly baked pizza. Mild, cheesy, and easy to enjoy with every bite.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/31450854/pexels-photo-31450854.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001024,
+                                  "name": "Mexican Fiesta",
+                                  "description": "A zesty pizza topped with Mexican-inspired vegetables, cheese, and flavorful seasoning. It brings together a slightly spicy kick with the richness of melted cheese.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/9394680/pexels-photo-9394680.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Sides",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001031,
+                                  "name": "Garlic Breadsticks",
+                                  "description": "Soft, golden breadsticks seasoned with aromatic garlic and herbs. They're crisp on the outside, tender inside, and perfect alongside your pizza.",
+                                  "price": 16900,
+                                  "imageId": "https://images.pexels.com/photos/7159284/pexels-photo-7159284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001032,
+                                  "name": "Cheesy Dip",
+                                  "description": "A smooth and creamy cheese dip with a rich savory flavor. Perfect for dipping fries, nuggets, and other crispy sides.",
+                                  "price": 9900,
+                                  "imageId": "https://images.pexels.com/photos/23220513/pexels-photo-23220513.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001033,
+                                  "name": "Loaded Cheese Fries",
+                                  "description": "Crispy golden fries covered with a generous layer of melted cheese. A rich and indulgent side that's perfect for sharing or enjoying on its own.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/29285461/pexels-photo-29285461.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001034,
+                                  "name": "Chicken Wings",
+                                  "description": "Juicy chicken wings seasoned with flavorful spices and cooked until tender. Their crispy outside and savory flavor make them a great snack or side.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/28674546/pexels-photo-28674546.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Desserts",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001041,
+                                  "name": "Choco Volcano Cake",
+                                  "description": "A warm, soft chocolate cake with a rich and gooey chocolate-filled center. Best enjoyed warm for a decadent chocolate dessert experience.",
+                                  "price": 12900,
+                                  "imageId": "https://images.pexels.com/photos/36183206/pexels-photo-36183206.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001042,
+                                  "name": "Mousse Cake",
+                                  "description": "A light and creamy chocolate mousse cake with a smooth, delicate texture. Its rich chocolate flavor makes it a satisfying way to finish your meal.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/37574428/pexels-photo-37574428.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001043,
+                                  "name": "Brownie",
+                                  "description": "A rich and fudgy chocolate brownie with a soft, moist center. A simple but indulgent dessert for serious chocolate lovers.",
+                                  "price": 13900,
+                                  "imageId": "https://images.pexels.com/photos/33312981/pexels-photo-33312981.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1001044,
+                                  "name": "Ice Cream",
+                                  "description": "A creamy and refreshing classic ice cream dessert served chilled. Its smooth texture and sweet flavor make it an easy finish to any meal.",
+                                  "price": 9900,
+                                  "imageId": "https://images.pexels.com/photos/13914948/pexels-photo-13914948.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1002": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1002",
+                  "name": "Domino's Pizza",
+                  "cuisines": [
+                    "Pizza"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100201,
+                                  "name": "Peppy Paneer",
+                                  "description": "A flavorful pizza featuring spicy paneer, crunchy vegetables, and melted cheese. The paneer and bold seasoning give every slice a satisfying kick.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/11974635/pexels-photo-11974635.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100202,
+                                  "name": "Chicken Dominator",
+                                  "description": "A hearty chicken-loaded pizza packed with flavorful chicken toppings and melted cheese. It's a filling choice for anyone looking for a rich and meaty pizza.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/7813572/pexels-photo-7813572.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100203,
+                                  "name": "Veg Extravaganza",
+                                  "description": "Delicious Veg Extravaganza.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/5903095/pexels-photo-5903095.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100204,
+                                  "name": "Garlic Breadsticks",
+                                  "description": "Soft, golden breadsticks seasoned with aromatic garlic and herbs. They're crisp on the outside, tender inside, and perfect alongside your pizza.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/7159284/pexels-photo-7159284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100205,
+                                  "name": "Choco Lava",
+                                  "description": "Delicious Choco Lava.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100206,
+                                  "name": "Coke",
+                                  "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100207,
+                                  "name": "Paneer Zingy",
+                                  "description": "Delicious Paneer Zingy.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/3928854/pexels-photo-3928854.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100208,
+                                  "name": "Corn Pizza",
+                                  "description": "Delicious Corn Pizza.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/31450854/pexels-photo-31450854.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100209,
+                                  "name": "Stuffed Garlic Bread",
+                                  "description": "Golden-baked garlic bread filled with a delicious cheesy stuffing. Soft, buttery, and flavorful, it makes a perfect accompaniment to pizza.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/6170675/pexels-photo-6170675.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100210,
+                                  "name": "Sprite",
+                                  "description": "Delicious Sprite.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/9996446/pexels-photo-9996446.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Pizzas",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002021,
+                                  "name": "Farmhouse",
+                                  "description": "A classic vegetarian pizza topped with fresh vegetables and generous amounts of melted cheese. It's a hearty combination of familiar flavors baked on a golden pizza base.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/35731444/pexels-photo-35731444.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002022,
+                                  "name": "Peppy Paneer",
+                                  "description": "A flavorful pizza featuring spicy paneer, crunchy vegetables, and melted cheese. The paneer and bold seasoning give every slice a satisfying kick.",
+                                  "price": 35900,
+                                  "imageId": "https://images.pexels.com/photos/11974635/pexels-photo-11974635.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002023,
+                                  "name": "Chicken Dominator",
+                                  "description": "A hearty chicken-loaded pizza packed with flavorful chicken toppings and melted cheese. It's a filling choice for anyone looking for a rich and meaty pizza.",
+                                  "price": 39900,
+                                  "imageId": "https://images.pexels.com/photos/7813572/pexels-photo-7813572.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002024,
+                                  "name": "Mexican Green Wave",
+                                  "description": "A zesty vegetarian pizza topped with crunchy vegetables, cheese, and Mexican-inspired seasoning. It delivers a lively mix of fresh, spicy, and cheesy flavors.",
+                                  "price": 32900,
+                                  "imageId": "https://images.pexels.com/photos/5175513/pexels-photo-5175513.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Sides",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002031,
+                                  "name": "Garlic Breadsticks",
+                                  "description": "Soft, golden breadsticks seasoned with aromatic garlic and herbs. They're crisp on the outside, tender inside, and perfect alongside your pizza.",
+                                  "price": 15900,
+                                  "imageId": "https://images.pexels.com/photos/7159284/pexels-photo-7159284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002032,
+                                  "name": "Stuffed Garlic Bread",
+                                  "description": "Golden-baked garlic bread filled with a delicious cheesy stuffing. Soft, buttery, and flavorful, it makes a perfect accompaniment to pizza.",
+                                  "price": 18900,
+                                  "imageId": "https://images.pexels.com/photos/6170675/pexels-photo-6170675.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002033,
+                                  "name": "Chicken Wings",
+                                  "description": "Juicy chicken wings seasoned with flavorful spices and cooked until tender. Their crispy outside and savory flavor make them a great snack or side.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/28674546/pexels-photo-28674546.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002034,
+                                  "name": "Potato Cheese Shots",
+                                  "description": "Crispy golden potato bites with a warm, cheesy center. They're small, crunchy, and packed with comforting savory flavors.",
+                                  "price": 17900,
+                                  "imageId": "https://images.pexels.com/photos/34692571/pexels-photo-34692571.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Desserts & Beverages",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002041,
+                                  "name": "Choco Lava Cake",
+                                  "description": "A soft chocolate cake hiding a warm, molten chocolate center inside. Serve it warm for a rich and gooey dessert that's hard to resist.",
+                                  "price": 10900,
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002042,
+                                  "name": "Butterscotch Mousse Cake",
+                                  "description": "A light and creamy mousse cake with a sweet butterscotch flavor. Its smooth texture and caramel-like sweetness make it a delightful dessert.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/28167316/pexels-photo-28167316.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002043,
+                                  "name": "Pepsi",
+                                  "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1002044,
+                                  "name": "Mirinda",
+                                  "description": "A bright and refreshing orange-flavored fizzy drink served chilled. Its sweet citrus flavor makes it a refreshing pairing with a savory meal.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/11659578/pexels-photo-11659578.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1003": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1003",
+                  "name": "KFC",
+                  "cuisines": [
+                    "Chicken",
+                    "Burgers"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100301,
+                                  "name": "Zinger Burger",
+                                  "description": "A crispy, spicy chicken fillet topped with fresh vegetables and creamy sauce in a soft bun. The crunchy chicken and bold seasoning make this a flavorful burger choice.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/5474836/pexels-photo-5474836.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100302,
+                                  "name": "Hot Wings",
+                                  "description": "Delicious Hot Wings.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/37538485/pexels-photo-37538485.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100303,
+                                  "name": "Chicken Bucket",
+                                  "description": "A generous bucket filled with crispy fried chicken pieces, seasoned for a bold and savory flavor. Perfect for sharing with friends or family.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/33037756/pexels-photo-33037756.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100304,
+                                  "name": "Popcorn Chicken",
+                                  "description": "Bite-sized pieces of tender chicken covered in a crunchy, flavorful coating. Great for snacking or sharing as a crispy side.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/12339072/pexels-photo-12339072.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100305,
+                                  "name": "French Fries",
+                                  "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100306,
+                                  "name": "Chicken Strips",
+                                  "description": "Tender strips of chicken coated in a crispy, seasoned crust. They're easy to enjoy and pair perfectly with your favorite dipping sauce.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/27497769/pexels-photo-27497769.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100307,
+                                  "name": "Pepsi",
+                                  "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100308,
+                                  "name": "Krushers",
+                                  "description": "A thick and creamy chilled beverage blended with delicious flavors. Smooth, refreshing, and ideal when you want something sweet and cool.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/20205944/pexels-photo-20205944.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100309,
+                                  "name": "Rice Bowl",
+                                  "description": "Delicious Rice Bowl.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/12916874/pexels-photo-12916874.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100310,
+                                  "name": "Veg Burger",
+                                  "description": "Delicious Veg Burger.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/3607284/pexels-photo-3607284.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Burgers & Wraps",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003021,
+                                  "name": "Zinger Burger",
+                                  "description": "A crispy, spicy chicken fillet topped with fresh vegetables and creamy sauce in a soft bun. The crunchy chicken and bold seasoning make this a flavorful burger choice.",
+                                  "price": 21900,
+                                  "imageId": "https://images.pexels.com/photos/5474836/pexels-photo-5474836.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003022,
+                                  "name": "Classic Chicken Burger",
+                                  "description": "A crispy chicken fillet layered with fresh toppings and creamy sauce inside a soft burger bun. It's a simple, satisfying combination of crunch, creaminess, and savory flavor.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/19737927/pexels-photo-19737927.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003023,
+                                  "name": "Chicken Roll",
+                                  "description": "Tender seasoned chicken wrapped with fresh vegetables and flavorful sauces. Convenient to eat and packed with savory flavors in every bite.",
+                                  "price": 17900,
+                                  "imageId": "https://images.pexels.com/photos/6416559/pexels-photo-6416559.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003024,
+                                  "name": "Chicken Longer",
+                                  "description": "A crispy chicken patty served in a long, soft bun with creamy sauce. Its crunchy chicken and soft bread create a satisfying texture combination.",
+                                  "price": 15900,
+                                  "imageId": "https://images.pexels.com/photos/9207056/pexels-photo-9207056.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Chicken Meals",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003031,
+                                  "name": "Chicken Bucket",
+                                  "description": "A generous bucket filled with crispy fried chicken pieces, seasoned for a bold and savory flavor. Perfect for sharing with friends or family.",
+                                  "price": 39900,
+                                  "imageId": "https://images.pexels.com/photos/33037756/pexels-photo-33037756.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003032,
+                                  "name": "Hot & Crispy Chicken",
+                                  "description": "Crispy fried chicken with a crunchy, seasoned coating and juicy, tender meat inside. A classic choice for anyone craving flavorful fried chicken.",
+                                  "price": 25900,
+                                  "imageId": "https://images.pexels.com/photos/8463472/pexels-photo-8463472.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003033,
+                                  "name": "Chicken Strips",
+                                  "description": "Tender strips of chicken coated in a crispy, seasoned crust. They're easy to enjoy and pair perfectly with your favorite dipping sauce.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/27497769/pexels-photo-27497769.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003034,
+                                  "name": "Popcorn Chicken",
+                                  "description": "Bite-sized pieces of tender chicken covered in a crunchy, flavorful coating. Great for snacking or sharing as a crispy side.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/12339072/pexels-photo-12339072.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Beverages & Desserts",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003041,
+                                  "name": "Pepsi",
+                                  "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003042,
+                                  "name": "7UP",
+                                  "description": "A chilled lemon-lime soft drink with a crisp and refreshing taste. Its light citrus flavor makes it a refreshing companion to spicy and savory food.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/9996446/pexels-photo-9996446.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003043,
+                                  "name": "Chocolate Lava Cake",
+                                  "description": "A warm chocolate dessert with a soft cake exterior and rich, gooey chocolate center. It's an indulgent treat for finishing a meal on a sweet note.",
+                                  "price": 12900,
+                                  "imageId": "https://images.pexels.com/photos/36183209/pexels-photo-36183209.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1003044,
+                                  "name": "Krushers",
+                                  "description": "A thick and creamy chilled beverage blended with delicious flavors. Smooth, refreshing, and ideal when you want something sweet and cool.",
+                                  "price": 15900,
+                                  "imageId": "https://images.pexels.com/photos/20205944/pexels-photo-20205944.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1004": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1004",
+                  "name": "Burger King",
+                  "cuisines": [
+                    "Burgers"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100401,
+                                  "name": "Whopper",
+                                  "description": "A signature burger featuring a flame-grilled patty, fresh vegetables, and creamy sauces in a soft bun. The combination delivers a classic smoky, juicy, and satisfying burger experience.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/13163534/pexels-photo-13163534.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100402,
+                                  "name": "Chicken Whopper",
+                                  "description": "A juicy chicken patty combined with fresh vegetables and signature burger sauces. Served in a soft bun, it offers a hearty balance of savory and creamy flavors.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/19737927/pexels-photo-19737927.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100403,
+                                  "name": "Veg Whopper",
+                                  "description": "Delicious Veg Whopper.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/20722055/pexels-photo-20722055.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100404,
+                                  "name": "Fries",
+                                  "description": "Delicious Fries.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/30270643/pexels-photo-30270643.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100405,
+                                  "name": "Peri Peri Fries",
+                                  "description": "Crispy golden fries tossed in a bold peri peri seasoning. Spicy, savory, and full of flavor from the first bite to the last.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/7375468/pexels-photo-7375468.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100406,
+                                  "name": "Coke",
+                                  "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100407,
+                                  "name": "Brownie",
+                                  "description": "A rich and fudgy chocolate brownie with a soft, moist center. A simple but indulgent dessert for serious chocolate lovers.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/33312981/pexels-photo-33312981.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100408,
+                                  "name": "Chicken Nuggets",
+                                  "description": "Tender bite-sized chicken pieces coated in a crispy golden crust. They're crunchy, savory, and perfect for dipping.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/11710530/pexels-photo-11710530.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100409,
+                                  "name": "Crispy Burger",
+                                  "description": "Delicious Crispy Burger.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/17121734/pexels-photo-17121734.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100410,
+                                  "name": "Shake",
+                                  "description": "Delicious Shake.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/20205944/pexels-photo-20205944.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Burgers",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004021,
+                                  "name": "Whopper",
+                                  "description": "A signature burger featuring a flame-grilled patty, fresh vegetables, and creamy sauces in a soft bun. The combination delivers a classic smoky, juicy, and satisfying burger experience.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/13163534/pexels-photo-13163534.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004022,
+                                  "name": "Crispy Veg Burger",
+                                  "description": "A crunchy vegetarian patty layered with fresh vegetables and flavorful sauces. A satisfying meat-free burger with plenty of texture and flavor.",
+                                  "price": 16900,
+                                  "imageId": "https://images.pexels.com/photos/28636771/pexels-photo-28636771.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004023,
+                                  "name": "Chicken Whopper",
+                                  "description": "A juicy chicken patty combined with fresh vegetables and signature burger sauces. Served in a soft bun, it offers a hearty balance of savory and creamy flavors.",
+                                  "price": 31900,
+                                  "imageId": "https://images.pexels.com/photos/19737927/pexels-photo-19737927.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004024,
+                                  "name": "Paneer King Burger",
+                                  "description": "A flavorful paneer patty served with fresh toppings and creamy sauces in a soft bun. A rich and satisfying vegetarian burger with a delicious Indian-inspired touch.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/20722055/pexels-photo-20722055.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Sides",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004031,
+                                  "name": "French Fries",
+                                  "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
+                                  "price": 12900,
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004032,
+                                  "name": "Peri Peri Fries",
+                                  "description": "Crispy golden fries tossed in a bold peri peri seasoning. Spicy, savory, and full of flavor from the first bite to the last.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/7375468/pexels-photo-7375468.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004033,
+                                  "name": "Chicken Nuggets",
+                                  "description": "Tender bite-sized chicken pieces coated in a crispy golden crust. They're crunchy, savory, and perfect for dipping.",
+                                  "price": 17900,
+                                  "imageId": "https://images.pexels.com/photos/11710530/pexels-photo-11710530.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004034,
+                                  "name": "Cheesy Dip",
+                                  "description": "A smooth and creamy cheese dip with a rich savory flavor. Perfect for dipping fries, nuggets, and other crispy sides.",
+                                  "price": 7900,
+                                  "imageId": "https://images.pexels.com/photos/23220513/pexels-photo-23220513.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Desserts & Beverages",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004041,
+                                  "name": "Chocolate Mousse Cup",
+                                  "description": "A rich and silky chocolate mousse served in a convenient dessert cup. Its smooth texture and deep chocolate flavor make it a decadent sweet treat.",
+                                  "price": 12900,
+                                  "imageId": "https://images.pexels.com/photos/34644328/pexels-photo-34644328.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004042,
+                                  "name": "Chocolate Shake",
+                                  "description": "A thick and creamy chocolate milkshake with a rich chocolate flavor. Smooth and chilled, it's a delicious companion to a burger or fries.",
+                                  "price": 17900,
+                                  "imageId": "https://images.pexels.com/photos/18142621/pexels-photo-18142621.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004043,
+                                  "name": "Coke",
+                                  "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1004044,
+                                  "name": "Fanta",
+                                  "description": "A refreshing orange-flavored fizzy drink served chilled. Its bright citrus flavor adds a sweet and refreshing contrast to savory food.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/5659362/pexels-photo-5659362.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1005": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1005",
+                  "name": "McDonald's",
+                  "cuisines": [
+                    "Fast Food"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100501,
+                                  "name": "McAloo Tikki",
+                                  "description": "Delicious McAloo Tikki.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/20741663/pexels-photo-20741663.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100502,
+                                  "name": "McSpicy Chicken",
+                                  "description": "Delicious McSpicy Chicken.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/19737927/pexels-photo-19737927.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100503,
+                                  "name": "McVeggie",
+                                  "description": "A flavorful crispy vegetable patty served with fresh toppings and creamy sauces. It's a satisfying vegetarian burger with a delicious crunchy texture.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/20741663/pexels-photo-20741663.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100504,
+                                  "name": "Fries",
+                                  "description": "Delicious Fries.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/30270643/pexels-photo-30270643.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100505,
+                                  "name": "McFlurry",
+                                  "description": "Delicious McFlurry.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/16560455/pexels-photo-16560455.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100506,
+                                  "name": "Coke",
+                                  "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100507,
+                                  "name": "Chicken Nuggets",
+                                  "description": "Tender bite-sized chicken pieces coated in a crispy golden crust. They're crunchy, savory, and perfect for dipping.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/11710530/pexels-photo-11710530.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100508,
+                                  "name": "Wrap",
+                                  "description": "Delicious Wrap.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/10837796/pexels-photo-10837796.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100509,
+                                  "name": "Sundae",
+                                  "description": "Delicious Sundae.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/16560455/pexels-photo-16560455.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100510,
+                                  "name": "Coffee",
+                                  "description": "Delicious Coffee.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Burgers & Wraps",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005021,
+                                  "name": "McChicken",
+                                  "description": "A crispy chicken patty topped with fresh lettuce and creamy mayonnaise in a soft bun. A familiar combination of crunchy chicken, cool lettuce, and smooth sauce.",
+                                  "price": 18900,
+                                  "imageId": "https://images.pexels.com/photos/11354334/pexels-photo-11354334.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005022,
+                                  "name": "McVeggie",
+                                  "description": "A flavorful crispy vegetable patty served with fresh toppings and creamy sauces. It's a satisfying vegetarian burger with a delicious crunchy texture.",
+                                  "price": 16900,
+                                  "imageId": "https://images.pexels.com/photos/20741663/pexels-photo-20741663.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005023,
+                                  "name": "McSpicy Paneer",
+                                  "description": "A spicy crispy paneer patty layered with fresh vegetables and flavorful sauce. It combines Indian-inspired spice with the comfort of a classic burger.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/20741663/pexels-photo-20741663.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005024,
+                                  "name": "Chicken Maharaja Mac",
+                                  "description": "A generously layered chicken burger featuring flavorful patties, fresh vegetables, and creamy sauces. It's a hearty and filling option with plenty of texture.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/19737927/pexels-photo-19737927.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Sides",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005031,
+                                  "name": "French Fries",
+                                  "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
+                                  "price": 11900,
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005032,
+                                  "name": "Chicken McNuggets",
+                                  "description": "Tender bite-sized chicken pieces coated in a crispy golden coating. Crunchy on the outside and savory inside, they're perfect for dipping.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/11710530/pexels-photo-11710530.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005033,
+                                  "name": "Hash Browns",
+                                  "description": "Crispy golden shredded potato bites with a soft and savory center. A classic breakfast-style side that's crunchy and comforting.",
+                                  "price": 9900,
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005034,
+                                  "name": "Veg Pizza McPuff",
+                                  "description": "A flaky baked pastry filled with seasoned vegetables and a delicious savory filling. Crisp on the outside and flavorful inside, it's a convenient snack.",
+                                  "price": 12900,
+                                  "imageId": "https://images.pexels.com/photos/6823310/pexels-photo-6823310.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Desserts & Beverages",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005041,
+                                  "name": "McFlurry Oreo",
+                                  "description": "Creamy soft-serve ice cream mixed with crunchy Oreo cookie pieces. The combination of smooth ice cream and chocolatey cookie crunch makes it an indulgent dessert.",
+                                  "price": 15900,
+                                  "imageId": "https://images.pexels.com/photos/33245825/pexels-photo-33245825.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005042,
+                                  "name": "Soft Serve",
+                                  "description": "Smooth and creamy soft-serve ice cream served chilled. Light, sweet, and refreshing, it's a simple way to end your meal.",
+                                  "price": 7900,
+                                  "imageId": "https://images.pexels.com/photos/1294943/pexels-photo-1294943.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005043,
+                                  "name": "Coke",
+                                  "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1005044,
+                                  "name": "McCafe Cold Coffee",
+                                  "description": "A chilled, creamy coffee beverage with a smooth and refreshing finish. It offers a balanced coffee flavor with a cool, comforting texture.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/12537510/pexels-photo-12537510.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1006": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1006",
+                  "name": "Truffles",
+                  "cuisines": [
+                    "Cafe",
+                    "Burgers"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100601,
+                                  "name": "Classic Burger",
+                                  "description": "Delicious Classic Burger.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/33413991/pexels-photo-33413991.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100602,
+                                  "name": "BBQ Burger",
+                                  "description": "Delicious BBQ Burger.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/19247585/pexels-photo-19247585.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100603,
+                                  "name": "Pasta",
+                                  "description": "Delicious Pasta.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/37521810/pexels-photo-37521810.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100604,
+                                  "name": "Nachos",
+                                  "description": "Delicious Nachos.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/37245312/pexels-photo-37245312.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100605,
+                                  "name": "Fries",
+                                  "description": "Delicious Fries.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/30270643/pexels-photo-30270643.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100606,
+                                  "name": "Brownie",
+                                  "description": "A rich and fudgy chocolate brownie with a soft, moist center. A simple but indulgent dessert for serious chocolate lovers.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/33312981/pexels-photo-33312981.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100607,
+                                  "name": "Cold Coffee",
+                                  "description": "A chilled and creamy coffee drink with a smooth, refreshing taste. Perfect for a cool caffeine boost alongside your meal.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/12537510/pexels-photo-12537510.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100608,
+                                  "name": "Pizza",
+                                  "description": "Delicious Pizza.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/7168365/pexels-photo-7168365.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100609,
+                                  "name": "Steak",
+                                  "description": "Delicious Steak.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/36101012/pexels-photo-36101012.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100610,
+                                  "name": "Lemonade",
+                                  "description": "Delicious Lemonade.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/30490191/pexels-photo-30490191.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Burgers",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006021,
+                                  "name": "All American Cheese Burger",
+                                  "description": "A classic burger featuring a juicy patty, melted cheese, fresh vegetables, and signature sauces. Rich, savory, and satisfying, it's a comforting take on an American-style burger.",
+                                  "price": 32900,
+                                  "imageId": "https://images.pexels.com/photos/6045440/pexels-photo-6045440.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006022,
+                                  "name": "Chicken Steak Burger",
+                                  "description": "A hearty chicken steak burger served with fresh toppings and flavorful sauces. Tender chicken and a soft bun come together for a filling meal.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/19737927/pexels-photo-19737927.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006023,
+                                  "name": "Paneer Burger",
+                                  "description": "A delicious paneer patty layered with fresh vegetables and creamy sauces in a soft bun. A rich and flavorful vegetarian burger with a satisfying bite.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/20722055/pexels-photo-20722055.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006024,
+                                  "name": "Truffles Veg Burger",
+                                  "description": "A flavorful vegetarian burger packed with a crispy patty, fresh toppings, and sauces. It combines crunchy texture with creamy and savory flavors.",
+                                  "price": 28900,
+                                  "imageId": "https://images.pexels.com/photos/28636771/pexels-photo-28636771.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Mains & Sides",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006031,
+                                  "name": "Penne Alfredo",
+                                  "description": "Penne pasta tossed in a rich and creamy Alfredo sauce. Smooth, comforting, and indulgent, it's a classic pasta choice for a filling meal.",
+                                  "price": 31900,
+                                  "imageId": "https://images.pexels.com/photos/37521810/pexels-photo-37521810.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006032,
+                                  "name": "Chicken Steak",
+                                  "description": "A tender and flavorful chicken steak prepared with savory seasoning. A hearty main course that's perfect when you're looking for a protein-rich meal.",
+                                  "price": 44900,
+                                  "imageId": "https://images.pexels.com/photos/36101012/pexels-photo-36101012.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006033,
+                                  "name": "Loaded Nachos",
+                                  "description": "Crispy nachos topped with generous layers of cheese and flavorful toppings. Crunchy, cheesy, and ideal for sharing as a snack or starter.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/37245312/pexels-photo-37245312.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006034,
+                                  "name": "French Fries",
+                                  "description": "Golden potato fries cooked until crisp on the outside and soft inside. Lightly seasoned and perfect as a classic side with burgers.",
+                                  "price": 17900,
+                                  "imageId": "https://images.pexels.com/photos/8880735/pexels-photo-8880735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Desserts & Beverages",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006041,
+                                  "name": "Chocolate Brownie",
+                                  "description": "Delicious Chocolate Brownie.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/33312981/pexels-photo-33312981.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006042,
+                                  "name": "New York Cheesecake",
+                                  "description": "A rich and creamy cheesecake with a smooth, classic New York-style texture. Its balanced sweetness and creamy finish make it a timeless dessert.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/33853813/pexels-photo-33853813.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006043,
+                                  "name": "Cold Coffee",
+                                  "description": "A chilled and creamy coffee drink with a smooth, refreshing taste. Perfect for a cool caffeine boost alongside your meal.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/12537510/pexels-photo-12537510.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1006044,
+                                  "name": "Fresh Lime Soda",
+                                  "description": "A refreshing lime drink with a bright citrus flavor and fizzy finish. Light, zesty, and especially refreshing when served chilled.",
+                                  "price": 12900,
+                                  "imageId": "https://images.pexels.com/photos/16970621/pexels-photo-16970621.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1007": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1007",
+                  "name": "Meghana Foods",
+                  "cuisines": [
+                    "Biryani"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100701,
+                                  "name": "Chicken Biryani",
+                                  "description": "Delicious Chicken Biryani.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/12737916/pexels-photo-12737916.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100702,
+                                  "name": "Mutton Biryani",
+                                  "description": "A rich and aromatic biryani featuring tender mutton cooked with fragrant spices and rice. The slow-cooked flavors create a deeply savory and satisfying meal.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/17649369/pexels-photo-17649369.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100703,
+                                  "name": "Paneer Biryani",
+                                  "description": "A flavorful vegetarian biryani made with soft paneer, aromatic rice, and fragrant spices. It's hearty, comforting, and packed with Indian flavors.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100704,
+                                  "name": "Chicken 65",
+                                  "description": "Crispy, spicy fried chicken bites seasoned with aromatic South Indian spices. Boldly flavored and crunchy, they make a great starter or side.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100705,
+                                  "name": "Apollo Fish",
+                                  "description": "Delicious Apollo Fish.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100706,
+                                  "name": "Butter Chicken",
+                                  "description": "Tender chicken cooked in a rich, creamy tomato-based gravy with aromatic spices. Smooth, buttery, and flavorful, it's a classic pairing with naan or rice.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100707,
+                                  "name": "Naan",
+                                  "description": "Delicious Naan.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100708,
+                                  "name": "Gulab Jamun",
+                                  "description": "Soft milk-solid dumplings soaked in fragrant sugar syrup. Sweet, tender, and aromatic, they're a classic Indian dessert.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/15014919/pexels-photo-15014919.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100709,
+                                  "name": "Curd Rice",
+                                  "description": "Soft rice mixed with creamy yogurt and mild seasoning for a refreshing meal. Cool, comforting, and ideal when you want something light and soothing.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100710,
+                                  "name": "Kebab",
+                                  "description": "Delicious Kebab.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/2232/vegetables-italian-pizza-restaurant.jpg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Biryani",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007021,
+                                  "name": "Meghana Special Chicken Biryani",
+                                  "description": "A fragrant rice dish layered with tender chicken, aromatic spices, and flavorful masala. Every serving combines fluffy rice with rich, savory biryani flavors.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/12737916/pexels-photo-12737916.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007022,
+                                  "name": "Boneless Chicken Biryani",
+                                  "description": "A flavorful biryani made with tender boneless chicken and aromatic spiced rice. It's a convenient, hearty option packed with classic biryani flavor.",
+                                  "price": 31900,
+                                  "imageId": "https://images.pexels.com/photos/12737916/pexels-photo-12737916.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007023,
+                                  "name": "Mutton Biryani",
+                                  "description": "A rich and aromatic biryani featuring tender mutton cooked with fragrant spices and rice. The slow-cooked flavors create a deeply savory and satisfying meal.",
+                                  "price": 37900,
+                                  "imageId": "https://images.pexels.com/photos/17649369/pexels-photo-17649369.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007024,
+                                  "name": "Paneer Biryani",
+                                  "description": "A flavorful vegetarian biryani made with soft paneer, aromatic rice, and fragrant spices. It's hearty, comforting, and packed with Indian flavors.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Starters",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007031,
+                                  "name": "Chicken 65",
+                                  "description": "Crispy, spicy fried chicken bites seasoned with aromatic South Indian spices. Boldly flavored and crunchy, they make a great starter or side.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007032,
+                                  "name": "Chilli Chicken",
+                                  "description": "Tender chicken pieces tossed with peppers, onions, and a flavorful chilli sauce. The dish balances spicy, tangy, and savory flavors in every bite.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007033,
+                                  "name": "Chicken Kebab",
+                                  "description": "Juicy seasoned chicken pieces cooked with aromatic spices for a flavorful bite. Tender and savory, they're perfect as a starter or side.",
+                                  "price": 32900,
+                                  "imageId": "https://images.pexels.com/photos/11710530/pexels-photo-11710530.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007034,
+                                  "name": "Paneer Chilli",
+                                  "description": "Crispy paneer tossed with peppers, onions, and a spicy Indo-Chinese sauce. It combines soft paneer with crunchy vegetables and bold flavors.",
+                                  "price": 25900,
+                                  "imageId": "https://picsum.photos/seed/1007_3_4/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Rice & Sides",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007041,
+                                  "name": "Ghee Rice",
+                                  "description": "Fragrant rice cooked with aromatic spices and rich ghee for a simple, flavorful dish. Light yet satisfying, it pairs beautifully with curries and starters.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007042,
+                                  "name": "Egg Fried Rice",
+                                  "description": "Wok-tossed rice combined with egg, vegetables, and savory seasoning. Each serving is flavorful, filling, and finished with classic fried-rice aromas.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007043,
+                                  "name": "Curd Rice",
+                                  "description": "Soft rice mixed with creamy yogurt and mild seasoning for a refreshing meal. Cool, comforting, and ideal when you want something light and soothing.",
+                                  "price": 15900,
+                                  "imageId": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1007044,
+                                  "name": "Chicken Fried Rice",
+                                  "description": "Wok-fried rice combined with tender chicken, vegetables, and flavorful sauces. A hearty dish with savory seasoning and classic wok-tossed flavors.",
+                                  "price": 27900,
+                                  "imageId": "https://images.pexels.com/photos/3926135/pexels-photo-3926135.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1008": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1008",
+                  "name": "Chinese Wok",
+                  "cuisines": [
+                    "Chinese"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100801,
+                                  "name": "Hakka Noodles",
+                                  "description": "Delicious Hakka Noodles.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100802,
+                                  "name": "Schezwan Noodles",
+                                  "description": "Spicy stir-fried noodles tossed with vegetables and bold Schezwan sauce. A flavorful choice for anyone who enjoys a fiery and savory noodle dish.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/3926135/pexels-photo-3926135.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100803,
+                                  "name": "Fried Rice",
+                                  "description": "Delicious Fried Rice.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100804,
+                                  "name": "Manchurian",
+                                  "description": "Delicious Manchurian.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100805,
+                                  "name": "Spring Rolls",
+                                  "description": "Crispy rolls filled with seasoned vegetables and cooked until golden. Crunchy outside with a flavorful filling, they make a classic starter.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/5848496/pexels-photo-5848496.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100806,
+                                  "name": "Momos",
+                                  "description": "Delicious Momos.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/4449068/pexels-photo-4449068.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100807,
+                                  "name": "Chilli Chicken",
+                                  "description": "Tender chicken pieces tossed with peppers, onions, and a flavorful chilli sauce. The dish balances spicy, tangy, and savory flavors in every bite.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100808,
+                                  "name": "Soup",
+                                  "description": "Delicious Soup.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100809,
+                                  "name": "Pepsi",
+                                  "description": "A chilled and refreshing cola with a crisp, fizzy taste. A classic beverage that pairs especially well with pizza and sides.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/988954/pexels-photo-988954.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100810,
+                                  "name": "Brownie",
+                                  "description": "A rich and fudgy chocolate brownie with a soft, moist center. A simple but indulgent dessert for serious chocolate lovers.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/33312981/pexels-photo-33312981.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Noodles",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008021,
+                                  "name": "Veg Hakka Noodles",
+                                  "description": "Stir-fried noodles tossed with fresh vegetables and flavorful Chinese-style sauces. Smoky wok flavors and crunchy vegetables make this a satisfying noodle dish.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008022,
+                                  "name": "Schezwan Noodles",
+                                  "description": "Spicy stir-fried noodles tossed with vegetables and bold Schezwan sauce. A flavorful choice for anyone who enjoys a fiery and savory noodle dish.",
+                                  "price": 21900,
+                                  "imageId": "https://images.pexels.com/photos/3926135/pexels-photo-3926135.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008023,
+                                  "name": "Chicken Hakka Noodles",
+                                  "description": "Wok-tossed noodles combined with tender chicken, vegetables, and savory sauces. A hearty Indo-Chinese favorite with smoky and flavorful notes.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/3926135/pexels-photo-3926135.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008024,
+                                  "name": "Chilli Garlic Noodles",
+                                  "description": "Aromatic noodles stir-fried with garlic, chilli, vegetables, and savory seasoning. Bold garlic flavor and a gentle heat make every bite satisfying.",
+                                  "price": 21900,
+                                  "imageId": "https://images.pexels.com/photos/3926135/pexels-photo-3926135.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Rice & Mains",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008031,
+                                  "name": "Veg Fried Rice",
+                                  "description": "Fragrant fried rice tossed with fresh vegetables and savory Chinese-style seasoning. Lightly smoky and flavorful, it's a versatile meal or side.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008032,
+                                  "name": "Chicken Fried Rice",
+                                  "description": "Wok-fried rice combined with tender chicken, vegetables, and flavorful sauces. A hearty dish with savory seasoning and classic wok-tossed flavors.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/3926135/pexels-photo-3926135.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008033,
+                                  "name": "Veg Manchurian",
+                                  "description": "Crispy vegetable dumplings tossed in a tangy and savory Manchurian sauce. The crunchy bites pair beautifully with the rich, flavorful gravy.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008034,
+                                  "name": "Chilli Chicken",
+                                  "description": "Tender chicken pieces tossed with peppers, onions, and a flavorful chilli sauce. The dish balances spicy, tangy, and savory flavors in every bite.",
+                                  "price": 26900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Starters & Momos",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008041,
+                                  "name": "Veg Momos",
+                                  "description": "Soft steamed dumplings filled with seasoned vegetables and served with a flavorful dip. Light, tender, and perfect for a quick snack or starter.",
+                                  "price": 18900,
+                                  "imageId": "https://images.pexels.com/photos/4449068/pexels-photo-4449068.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008042,
+                                  "name": "Chicken Momos",
+                                  "description": "Steamed dumplings filled with seasoned chicken and served with a spicy dipping sauce. Tender on the outside and savory inside, they're great for sharing.",
+                                  "price": 21900,
+                                  "imageId": "https://images.pexels.com/photos/4449068/pexels-photo-4449068.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008043,
+                                  "name": "Spring Rolls",
+                                  "description": "Crispy rolls filled with seasoned vegetables and cooked until golden. Crunchy outside with a flavorful filling, they make a classic starter.",
+                                  "price": 17900,
+                                  "imageId": "https://images.pexels.com/photos/5848496/pexels-photo-5848496.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1008044,
+                                  "name": "Crispy Chilli Potato",
+                                  "description": "Crispy potato strips tossed with chilli, peppers, and a tangy savory sauce. Crunchy and spicy with a delicious sweet-and-savory balance.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/30270643/pexels-photo-30270643.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1009": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1009",
+                  "name": "Empire Restaurant",
+                  "cuisines": [
+                    "North Indian"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100901,
+                                  "name": "Chicken Shawarma",
+                                  "description": "Delicious Chicken Shawarma.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100902,
+                                  "name": "Butter Chicken",
+                                  "description": "Tender chicken cooked in a rich, creamy tomato-based gravy with aromatic spices. Smooth, buttery, and flavorful, it's a classic pairing with naan or rice.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100903,
+                                  "name": "Chicken Biryani",
+                                  "description": "Delicious Chicken Biryani.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/12737916/pexels-photo-12737916.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100904,
+                                  "name": "Tandoori",
+                                  "description": "Delicious Tandoori.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100905,
+                                  "name": "Rumali Roti",
+                                  "description": "Thin and soft handkerchief-style flatbread that's light and easy to fold. A versatile accompaniment for curries, kebabs, and other Indian dishes.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100906,
+                                  "name": "Paneer Butter Masala",
+                                  "description": "Soft paneer cooked in a rich, creamy tomato gravy with aromatic spices. Mildly spiced, smooth, and perfect with Indian breads or rice.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/9609842/pexels-photo-9609842.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100907,
+                                  "name": "Falooda",
+                                  "description": "A chilled, creamy dessert drink layered with sweet flavors and refreshing textures. A colorful and indulgent treat that's especially enjoyable when served cold.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/5945755/pexels-photo-5945755.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100908,
+                                  "name": "Lassi",
+                                  "description": "Delicious Lassi.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100909,
+                                  "name": "Kebab",
+                                  "description": "Delicious Kebab.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/2232/vegetables-italian-pizza-restaurant.jpg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 100910,
+                                  "name": "Naan",
+                                  "description": "Delicious Naan.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Indian Mains",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009021,
+                                  "name": "Butter Chicken",
+                                  "description": "Tender chicken cooked in a rich, creamy tomato-based gravy with aromatic spices. Smooth, buttery, and flavorful, it's a classic pairing with naan or rice.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009022,
+                                  "name": "Chicken Tikka Masala",
+                                  "description": "Grilled chicken tikka simmered in a flavorful spiced tomato and cream gravy. Smoky chicken and rich curry come together in this comforting classic.",
+                                  "price": 32900,
+                                  "imageId": "https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009023,
+                                  "name": "Paneer Butter Masala",
+                                  "description": "Soft paneer cooked in a rich, creamy tomato gravy with aromatic spices. Mildly spiced, smooth, and perfect with Indian breads or rice.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/9609842/pexels-photo-9609842.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009024,
+                                  "name": "Dal Tadka",
+                                  "description": "Comforting lentils tempered with aromatic spices, herbs, and a touch of ghee. Warm, hearty, and simple, it makes a perfect accompaniment to rice or roti.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Starters & Kebabs",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009031,
+                                  "name": "Chicken Kebab",
+                                  "description": "Juicy seasoned chicken pieces cooked with aromatic spices for a flavorful bite. Tender and savory, they're perfect as a starter or side.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/11710530/pexels-photo-11710530.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009032,
+                                  "name": "Tandoori Chicken",
+                                  "description": "Juicy chicken marinated in aromatic spices and roasted for a smoky, flavorful finish. The charred edges and tender meat make it a popular Indian starter.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009033,
+                                  "name": "Chicken 65",
+                                  "description": "Crispy, spicy fried chicken bites seasoned with aromatic South Indian spices. Boldly flavored and crunchy, they make a great starter or side.",
+                                  "price": 27900,
+                                  "imageId": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009034,
+                                  "name": "Paneer Tikka",
+                                  "description": "Grilled paneer cubes marinated with spices and served with fresh accompaniments. Smoky, flavorful, and satisfying as a starter or light meal.",
+                                  "price": 26900,
+                                  "imageId": "https://images.pexels.com/photos/9609842/pexels-photo-9609842.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Breads & Desserts",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009041,
+                                  "name": "Butter Naan",
+                                  "description": "Soft Indian flatbread brushed generously with melted butter. Its tender texture and buttery flavor make it ideal for scooping up rich curries.",
+                                  "price": 8900,
+                                  "imageId": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009042,
+                                  "name": "Rumali Roti",
+                                  "description": "Thin and soft handkerchief-style flatbread that's light and easy to fold. A versatile accompaniment for curries, kebabs, and other Indian dishes.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009043,
+                                  "name": "Gulab Jamun",
+                                  "description": "Soft milk-solid dumplings soaked in fragrant sugar syrup. Sweet, tender, and aromatic, they're a classic Indian dessert.",
+                                  "price": 11900,
+                                  "imageId": "https://images.pexels.com/photos/15014919/pexels-photo-15014919.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1009044,
+                                  "name": "Falooda",
+                                  "description": "A chilled, creamy dessert drink layered with sweet flavors and refreshing textures. A colorful and indulgent treat that's especially enjoyable when served cold.",
+                                  "price": 17900,
+                                  "imageId": "https://images.pexels.com/photos/5945755/pexels-photo-5945755.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "1010": {
+      "statusCode": 0,
+      "data": {
+        "cards": [
+          {},
+          {},
+          {
+            "card": {
+              "card": {
+                "info": {
+                  "id": "1010",
+                  "name": "Subway",
+                  "cuisines": [
+                    "Sandwiches"
+                  ],
+                  "costForTwoMessage": "₹300 for two"
+                }
+              }
+            }
+          },
+          {},
+          {
+            "groupedCard": {
+              "cardGroupMap": {
+                "REGULAR": {
+                  "cards": [
+                    {},
+                    {},
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Recommended",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101001,
+                                  "name": "Veg Delight",
+                                  "description": "Delicious Veg Delight.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101002,
+                                  "name": "Chicken Tikka Sub",
+                                  "description": "Delicious Chicken Tikka Sub.",
+                                  "price": 24900,
+                                  "imageId": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101003,
+                                  "name": "Paneer Tikka Sub",
+                                  "description": "A hearty sub filled with spiced paneer tikka, fresh vegetables, and flavorful sauces. It combines smoky paneer with crunchy vegetables and a soft toasted bread.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101004,
+                                  "name": "Italian BMT",
+                                  "description": "Delicious Italian BMT.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101005,
+                                  "name": "Cookies",
+                                  "description": "Delicious Cookies.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101006,
+                                  "name": "Wrap",
+                                  "description": "Delicious Wrap.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/10837796/pexels-photo-10837796.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101007,
+                                  "name": "Salad",
+                                  "description": "Delicious Salad.",
+                                  "price": 29900,
+                                  "imageId": "https://picsum.photos/seed/1010_7/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101008,
+                                  "name": "Coke",
+                                  "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
+                                  "price": 14900,
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101009,
+                                  "name": "Chips",
+                                  "description": "Delicious Chips.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 101010,
+                                  "name": "Coffee",
+                                  "description": "Delicious Coffee.",
+                                  "price": 34900,
+                                  "imageId": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Subs",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010021,
+                                  "name": "Veggie Delite",
+                                  "description": "A fresh vegetarian sub packed with crisp vegetables and your choice of flavorful sauces. Light, crunchy, and refreshing, it's a simple everyday favorite.",
+                                  "price": 19900,
+                                  "imageId": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010022,
+                                  "name": "Paneer Tikka Sub",
+                                  "description": "A hearty sub filled with spiced paneer tikka, fresh vegetables, and flavorful sauces. It combines smoky paneer with crunchy vegetables and a soft toasted bread.",
+                                  "price": 25900,
+                                  "imageId": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010023,
+                                  "name": "Chicken Teriyaki Sub",
+                                  "description": "Tender chicken glazed with sweet-savory teriyaki sauce and layered with fresh vegetables in a soft sub. A flavorful combination of juicy chicken, sauce, and crunch.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010024,
+                                  "name": "Chicken Seekh Sub",
+                                  "description": "A flavorful sub filled with seasoned chicken seekh, fresh vegetables, and sauces. Savory, filling, and packed with aromatic spices in every bite.",
+                                  "price": 27900,
+                                  "imageId": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Wraps & Salads",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010031,
+                                  "name": "Veggie Patty Wrap",
+                                  "description": "A soft wrap filled with a savory vegetable patty, fresh vegetables, and sauces. A convenient vegetarian meal with a satisfying combination of textures.",
+                                  "price": 22900,
+                                  "imageId": "https://images.pexels.com/photos/10837796/pexels-photo-10837796.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010032,
+                                  "name": "Chicken Tikka Wrap",
+                                  "description": "Tender chicken tikka wrapped with fresh vegetables and flavorful sauces. Smoky, savory chicken makes this a filling and flavorful handheld meal.",
+                                  "price": 27900,
+                                  "imageId": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010033,
+                                  "name": "Paneer Tikka Salad",
+                                  "description": "A fresh salad topped with flavorful paneer tikka and crisp vegetables. It combines refreshing greens with the rich, smoky taste of seasoned paneer.",
+                                  "price": 26900,
+                                  "imageId": "https://picsum.photos/seed/1010_3_3/500/500",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010034,
+                                  "name": "Chicken Teriyaki Salad",
+                                  "description": "A fresh vegetable salad topped with tender teriyaki-glazed chicken. Sweet-savory chicken and crisp vegetables create a light but satisfying meal.",
+                                  "price": 29900,
+                                  "imageId": "https://images.pexels.com/photos/1546039/pexels-photo-1546039.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 0
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "card": {
+                        "card": {
+                          "title": "Sides & Beverages",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010041,
+                                  "name": "Potato Chips",
+                                  "description": "Crispy and crunchy potato chips that make a simple, savory side. They're perfect when you want a light snack alongside your sub or wrap.",
+                                  "price": 7900,
+                                  "imageId": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010042,
+                                  "name": "Chocolate Chip Cookie",
+                                  "description": "A soft-baked cookie filled with delicious chocolate chips. Sweet, chewy, and packed with chocolate flavor, it's an easy dessert or snack.",
+                                  "price": 8900,
+                                  "imageId": "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010043,
+                                  "name": "Coke",
+                                  "description": "A chilled and fizzy cola with a classic refreshing taste. Its crisp sweetness pairs well with rich and savory meals.",
+                                  "price": 6900,
+                                  "imageId": "https://images.pexels.com/photos/8879626/pexels-photo-8879626.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            },
+                            {
+                              "card": {
+                                "info": {
+                                  "id": 1010044,
+                                  "name": "Iced Tea",
+                                  "description": "A chilled tea beverage with a light and refreshing flavor. A cool, easy-drinking choice to pair with a fresh sub or salad.",
+                                  "price": 8900,
+                                  "imageId": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress&cs=tinysrgb&w=500&q=80",
+                                  "isVeg": 1
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

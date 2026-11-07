@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react"
 import resMenu from "../utils/all_menus.json"
+import { SWIGGY_URL } from "./constants"
 const useRestaurantMenu = (resId)=>{
     // custom hook
     const json = resMenu.menus
@@ -10,7 +11,15 @@ const useRestaurantMenu = (resId)=>{
     }, [])
 
     const fetchMenu = async()=>{
-        setResInfo(json[resId].data)
+
+
+        const data = await fetch("https://corsproxy.io/?url=" + SWIGGY_URL);
+        const json = await data.json()
+        const realData = json?.data?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants;
+        setResInfo(realData)
+
+        // setResInfo(json[resId].data)
+        setResInfo(resMenu.menus[resId]?.data)
     }
     return resInfo
 }
