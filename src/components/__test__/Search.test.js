@@ -45,3 +45,30 @@ expect(cardsAfterSearch.length).toBe(2)
 
 
 })
+
+it("should filter top rated restaurants", async()=>{
+
+    await act(async()=>
+        render(
+            <BrowserRouter>
+                <Body/>
+            </BrowserRouter>
+        )
+)
+
+const cardsBeforeFilter =   screen.getAllByTestId("resCard")
+
+
+const topRatedBtn = screen.getByRole("button", {name : "Top Rated Restaurants"})
+fireEvent.click(topRatedBtn)
+
+const cardsAfterFilter = screen.getAllByTestId("resCard")
+
+expect(cardsAfterFilter.length).toBe(3)
+
+
+
+    
+
+
+})
